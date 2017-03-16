@@ -1,0 +1,296 @@
+fine_amount,compliance,ticket_id,latitude,compliance
+250,0,22056,42.346169,non-compliant by no payment
+750,1,27586,42.394657,compliant by late payment within 1 month
+250,-1,22062,42.373779,not responsible by disposition
+250,-1,22084,42.4033417,not responsible by disposition
+250,-1,22093,42.407255,not responsible by disposition
+250,0,22046,42.2439275,non-compliant by no payment
+750,0,18738,42.337779,non-compliant by no payment
+100,0,18735,42.404354,non-compliant by no payment
+100,0,18733,42.3898077,non-compliant by no payment
+750,0,28204,42.3323435,non-compliant by no payment
+750,-1,18739,42.430603,not responsible by disposition
+100,-1,18740,42.265129,not responsible by disposition
+750,0,18743,42.419211,non-compliant by no payment
+750,0,18741,42.446465,non-compliant by no payment
+750,0,18978,42.387036,non-compliant by no payment
+750,-1,18974,42.392659,not responsible by pending judgment disposition
+750,-1,18742,42.382073,not responsible by disposition
+750,-1,28211,42.409781,not responsible by disposition
+100,1,18746,42.413618,compliant by late payment within 1 month
+100,1,18744,42.40166,compliant by late payment within 1 month
+100,-1,18747,42.398249,not responsible by disposition
+750,0,26846,42.361461,non-compliant by no payment
+750,0,26848,42.432074,non-compliant by no payment
+750,0,28209,42.4279079,non-compliant by no payment
+100,-1,18736,42.3725661,not responsible by disposition
+100,-1,18737,42.40463,not responsible by pending judgment disposition
+100,0,19950,42.316361,non-compliant by no payment
+3500,-1,19311,42.373221,not responsible by disposition
+250,0,18645,42.403781,non-compliant by no payment
+3500,-1,19310,42.41096,not responsible by disposition
+250,0,18651,42.356143,non-compliant by no payment
+250,0,18649,42.4457341,non-compliant by no payment
+250,-1,18660,42.3288607,not responsible by disposition
+250,0,18664,42.3742959,non-compliant by late payment more than 1 month
+250,0,18646,42.406631,non-compliant by no payment
+250,0,18661,42.3759127,non-compliant by late payment more than 1 month
+250,-1,18662,42.418402,not responsible by disposition
+250,1,18657,42.3999964,compliant by late payment within 1 month
+250,0,18652,42.306061,non-compliant by no payment
+250,0,18665,42.4221531,non-compliant by late payment more than 1 month
+250,0,18650,42.3534231,non-compliant by no payment
+250,1,18653,42.319892,compliant by early payment
+250,0,18658,42.3652609,non-compliant by no payment
+250,0,18666,42.361795,non-compliant by late payment more than 1 month
+250,1,18655,42.263698,compliant by early payment
+250,-1,18648,42.348252,not responsible by disposition
+250,0,18667,42.445427,non-compliant by no payment
+250,0,18654,42.386686,non-compliant by no payment
+250,0,18663,42.409356,non-compliant by late payment more than 1 month
+250,-1,18659,42.336072,not responsible by disposition
+250,-1,18656,42.395138,not responsible by disposition
+250,-1,18668,42.425909,not responsible by disposition
+250,0,18705,42.4185706,non-compliant by no payment
+3500,0,18745,42.397253,non-compliant by no payment
+750,-1,18723,42.361719,not responsible by disposition
+250,-1,18693,42.431,not responsible by disposition
+250,0,18762,42.372507,non-compliant by late payment more than 1 month
+250,-1,18706,42.289288,not responsible by pending judgment disposition
+250,0,18694,42.407425,non-compliant by no payment
+250,1,18707,42.388633,compliant by late payment within 1 month
+100,1,18730,42.423946,compliant by late payment within 1 month
+100,1,18728,42.347842,compliant by late payment within 1 month
+250,0,18687,42.427826,non-compliant by late payment more than 1 month
+250,0,18718,42.418679,non-compliant by no payment
+250,0,18670,42.43181,non-compliant by no payment
+250,0,18675,42.399583,non-compliant by no payment
+250,0,18702,42.390633,non-compliant by no payment
+250,0,18692,42.426048,non-compliant by late payment more than 1 month
+250,0,18684,42.3890389,non-compliant by no payment
+200,0,19053,42.397024,non-compliant by late payment more than 1 month
+250,0,18714,42.3668369,non-compliant by no payment
+250,-1,18673,42.325438,not responsible by pending judgment disposition
+25,0,18697,42.431582,non-compliant by no payment
+250,0,18699,42.410297,non-compliant by late payment more than 1 month
+250,-1,18683,42.3683945,not responsible by disposition
+250,-1,18686,42.400414,not responsible by disposition
+200,0,18725,42.437855,non-compliant by no payment
+200,1,18763,42.371788,compliant by late payment within 1 month
+250,-1,18672,42.385638,not responsible by disposition
+250,0,18671,42.3322765,non-compliant by no payment
+3500,0,18755,42.409003,non-compliant by no payment
+250,0,18689,42.401115,non-compliant by late payment more than 1 month
+250,0,18695,42.4179724,non-compliant by no payment
+250,0,18704,42.293495,non-compliant by no payment
+250,0,18688,42.338019,non-compliant by no payment
+250,-1,18690,42.4466952,not responsible by pending judgment disposition
+200,-1,19062,42.4337882,not responsible by disposition
+250,0,18681,42.4346627,non-compliant by no payment
+250,1,18691,42.356913,compliant by on-time payment
+250,1,18698,42.365102,compliant by late payment within 1 month
+250,-1,18703,42.3455861,not responsible by pending judgment disposition
+250,0,18679,42.344523,non-compliant by no payment
+250,-1,18674,42.412672,not responsible by disposition
+200,0,18798,42.436902,non-compliant by no payment
+250,0,18700,42.3367192,non-compliant by no payment
+100,-1,18726,42.3369659,not responsible by disposition
+250,0,18696,42.367388,non-compliant by no payment
+250,-1,18682,42.392523,not responsible by disposition
+250,0,18731,42.35918,non-compliant by no payment
+250,-1,18678,42.356369,not responsible by disposition
+250,0,18685,42.388413,non-compliant by no payment
+250,-1,18708,42.3817639,not responsible by disposition
+250,0,18721,42.440447,non-compliant by no payment
+250,-1,18701,42.3903589,not responsible by disposition
+100,0,18732,42.3566504,non-compliant by no payment
+250,-1,18712,42.40845,not responsible by disposition
+250,0,18713,42.370552,non-compliant by no payment
+250,0,18717,42.378989,non-compliant by no payment
+250,0,18724,42.3299817,non-compliant by late payment more than 1 month
+250,-1,18677,42.397658,not responsible by disposition
+200,0,18719,42.3894801,non-compliant by no payment
+250,0,18680,42.3498125,non-compliant by no payment
+750,1,18720,42.365195,compliant by late payment within 1 month
+750,0,22667,42.40616,non-compliant by no payment
+750,-1,18715,42.398533,not responsible by disposition
+250,0,18669,42.362692,non-compliant by late payment more than 1 month
+1000,-1,18734,42.4355701,not responsible by disposition
+100,1,18729,42.4448989,compliant by late payment within 1 month
+250,-1,18709,42.3626325,not responsible by pending judgment disposition
+250,0,18787,42.433058,non-compliant by no payment
+250,1,18804,42.401068,compliant by late payment within 1 month
+250,-1,18790,42.375361,not responsible by disposition
+250,0,18748,42.3868099,non-compliant by no payment
+250,-1,18786,42.410365,not responsible by disposition
+250,0,18802,42.409051,non-compliant by no payment
+250,0,18761,42.366592,non-compliant by no payment
+100,1,19043,42.382353,compliant by on-time payment
+100,1,19049,42.3444909,compliant by on-time payment
+250,0,18803,42.3714687,non-compliant by no payment
+250,0,18750,42.365397,non-compliant by no payment
+200,0,19056,42.423832,non-compliant by no payment
+250,0,18791,42.438609,non-compliant by late payment more than 1 month
+250,-1,18759,42.4181421,not responsible by disposition
+250,-1,18767,42.3717498,not responsible by disposition
+250,0,18749,42.3990515,non-compliant by no payment
+250,-1,18818,42.433286,not responsible by pending judgment disposition
+250,0,18930,42.431881,non-compliant by no payment
+250,0,18765,42.433352,non-compliant by no payment
+250,1,18793,42.4311744,compliant by late payment within 1 month
+250,0,18751,42.4418689,non-compliant by no payment
+250,0,18805,42.406548,non-compliant by no payment
+250,0,18768,42.372171,non-compliant by no payment
+250,0,18799,42.2708715,non-compliant by no payment
+250,0,18896,42.437142,non-compliant by no payment
+250,0,18772,42.3851,non-compliant by no payment
+250,-1,18806,42.4147984,not responsible by disposition
+250,0,18760,42.353555,non-compliant by late payment more than 1 month
+250,0,18758,42.373111,non-compliant by no payment
+250,-1,18808,42.406395,not responsible by disposition
+250,0,18933,42.4404839,non-compliant by no payment
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

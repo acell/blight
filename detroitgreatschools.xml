@@ -1,0 +1,6308 @@
+<schools>
+<school>
+<gsId>13313</gsId>
+<name>A. Philip Randolph Technical High School</name>
+<type>public</type>
+<gradeRange>9</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>17101 Hubbell Avenue, Detroit, MI 48235</address>
+<phone>(313) 494-7100</phone>
+<fax>(313) 494-7114</fax>
+<website/>
+<ncesId/>
+<lat>42.416485</lat>
+<lon>-83.18958</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/13313-A.-Philip-Randolph-Technical-High-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx13313xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx13313xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/13313
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5372</gsId>
+<name>ASA Higher Learning Preparatory</name>
+<type>private</type>
+<gradeRange>K-3</gradeRange>
+<enrollment>90</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>20433 Livernois Ave., Detroit, MI 48221</address>
+<phone>(313) 341-1558</phone>
+<fax>(313) 341-0012</fax>
+<website/>
+<ncesId>BB000666</ncesId>
+<lat>42.44429</lat>
+<lon>-83.142044</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5372-ASA-Higher-Learning-Preparatory/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx5372xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx5372xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/5372
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1010</gsId>
+<name>Academy Of The Americas</name>
+<type>public</type>
+<gradeRange>K-9</gradeRange>
+<enrollment>663</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>5680 Konkel Street, Detroit, MI 48210</address>
+<phone>(313) 596-7640</phone>
+<fax>(313) 596-7652</fax>
+<website>http://detroitk12.org/schools/AcadAmerica</website>
+<ncesId>261200000032</ncesId>
+<lat>42.327446</lat>
+<lon>-83.10949</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1010-Academy-Of-The-Americas/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1010xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1010xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1010
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8886</gsId>
+<name>Al-Ihsan Academy</name>
+<type>private</type>
+<gradeRange>PK-11</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>14350 Tireman Avenue, Detroit, MI 48228</address>
+<phone>(313) 584-6448</phone>
+<fax/>
+<website/>
+<ncesId>A0701319</ncesId>
+<lat>42.35174</lat>
+<lon>-83.18387</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8886-Al-Ihsan-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx8886xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx8886xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/8886
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4713</gsId>
+<name>Al-Ikhlas Training Academy</name>
+<type>private</type>
+<gradeRange>K-12</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>13490 Dwyer Street, Detroit, MI 48212</address>
+<phone>(313) 925-0880</phone>
+<fax/>
+<website/>
+<ncesId>A9303321</ncesId>
+<lat>42.416862</lat>
+<lon>-83.04032</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4713-Al-Ikhlas-Training-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx4713xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx4713xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4713
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5565</gsId>
+<name>Allen Academy</name>
+<type>charter</type>
+<gradeRange>K-12</gradeRange>
+<enrollment>977</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>192</districtId>
+<district>Allen Academy</district>
+<districtNCESId>2600241</districtNCESId>
+<address>8666 Quincy Street, Detroit, MI 48204</address>
+<phone>(313) 898-6444</phone>
+<fax>(313) 361-5836</fax>
+<website>http://www.leonagroup.com/allen</website>
+<ncesId>260024101664</ncesId>
+<lat>42.36384</lat>
+<lon>-83.11949</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5565-Allen-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx5565xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx5565xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5565
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4850</gsId>
+<name>Allen Baptist Child Development</name>
+<type>private</type>
+<gradeRange>PK-7</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>16801 Schoolcraft, Detroit, MI 48227</address>
+<phone>(313) 837-0202</phone>
+<fax/>
+<website/>
+<ncesId>BB962777</ncesId>
+<lat>42.3863</lat>
+<lon>-83.2344</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4850-Allen-Baptist-Child-Development/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx4850xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx4850xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4850
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1049</gsId>
+<name>Bagley Elementary School</name>
+<type>public</type>
+<gradeRange>K-6</gradeRange>
+<enrollment>348</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>8100 Curtis Street, Detroit, MI 48221</address>
+<phone>(313) 494-7175</phone>
+<fax>(313) 494-7173</fax>
+<website>http://detroitk12.org/schools/school/014/</website>
+<ncesId>261200004643</ncesId>
+<lat>42.424564</lat>
+<lon>-83.14767</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1049-Bagley-Elementary-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1049xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1049xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1049
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1273</gsId>
+<name>Bates Academy</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>845</enrollment>
+<gsRating>4</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>19701 Wyoming Avenue, Detroit, MI 48221</address>
+<phone>(313) 494-7000</phone>
+<fax>(313) 494-8811</fax>
+<website>http://detroitk12.org/schools/Bates</website>
+<ncesId>261200007481</ncesId>
+<lat>42.43678</lat>
+<lon>-83.16117</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1273-Bates-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1273xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1273xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1273
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9168</gsId>
+<name>Benjamin Carson School for Science and Medicine</name>
+<type>public</type>
+<gradeRange>9-11</gradeRange>
+<enrollment>355</enrollment>
+<gsRating>3</gsRating>
+<parentRating>1</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>571 Mack Avenue, Detroit, MI 48201</address>
+<phone>(313) 494-1805</phone>
+<fax>(313) 494-1805</fax>
+<website>http://detroitk12.org/schools/school/505/</website>
+<ncesId>261200008271</ncesId>
+<lat>42.35015</lat>
+<lon>-83.051186</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9168-Benjamin-Carson-School-For-Science-And-Medicine/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9168xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9168xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9168
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4750</gsId>
+<name>Benjamin E Mays Male Academy</name>
+<type>private</type>
+<gradeRange>PK-6</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>3544 Iroquois, Detroit, MI 48214</address>
+<phone>(313) 924-0014</phone>
+<fax/>
+<website/>
+<ncesId>A9502287</ncesId>
+<lat>42.36852</lat>
+<lon>-83.00113</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4750-Benjamin-E-Mays-Male-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx4750xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx4750xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4750
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1055</gsId>
+<name>Bennett Elementary School</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>410</enrollment>
+<gsRating>4</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2111 Mullane St, Detroit, MI 48209</address>
+<phone>(313) 849-3585</phone>
+<fax>(313) 849-1169</fax>
+<website>http://detroitk12.org/schools/Bennett</website>
+<ncesId>261200004650</ncesId>
+<lat>42.30955</lat>
+<lon>-83.12905</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1055-Bennett-Elementary-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1055xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1055xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1055
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4300</gsId>
+<name>Bethany Lutheran School</name>
+<type>private</type>
+<gradeRange>PK-4, 6-8</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>11475 E Outer Dr, Detroit, MI 48224</address>
+<phone>(313) 885-0180</phone>
+<fax/>
+<website/>
+<ncesId>00642387</ncesId>
+<lat>42.405807</lat>
+<lon>-82.94867</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4300-Bethany-Lutheran-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx4300xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx4300xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4300
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4611</gsId>
+<name>Blackwell Christian Academy</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>17330 West McNichols, Detroit, MI 48235</address>
+<phone>(313) 836-0913</phone>
+<fax/>
+<website/>
+<ncesId>A9103427</ncesId>
+<lat>42.415886</lat>
+<lon>-83.214066</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4611-Blackwell-Christian-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx4611xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx4611xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4611
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5140</gsId>
+<name>Blackwell Institute</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>423</enrollment>
+<gsRating>1</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>9330 Shoemaker Street, Detroit, MI 48213</address>
+<phone>(313) 866-4391</phone>
+<fax>(313) 866-4386</fax>
+<website>http://detroitk12.org/schools/Blackwell</website>
+<ncesId>261200001298</ncesId>
+<lat>42.38942</lat>
+<lon>-83.00552</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5140-Blackwell-Institute/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx5140xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx5140xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5140
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9050</gsId>
+<name>Blanche Kelso Bruce Academy - Cecil Site</name>
+<type>charter</type>
+<gradeRange>5-12</gradeRange>
+<enrollment>59</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>819</districtId>
+<district>Blanche Kelso Bruce Academy</district>
+<districtNCESId>2600272</districtNCESId>
+<address>5690 Cecil Avenue, Detroit, MI 48210</address>
+<phone>(313) 895-3000</phone>
+<fax>(313) 895-4040</fax>
+<website/>
+<ncesId>260027208127</ncesId>
+<lat>42.337917</lat>
+<lon>-83.137024</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9050-Blanche-Kelso-Bruce-Academy---Cecil-Site/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9050xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9050xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9050
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9052</gsId>
+<name>Blanche Kelso Bruce Academy - St. Thomas Site</name>
+<type>charter</type>
+<gradeRange>5-12</gradeRange>
+<enrollment>8</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>819</districtId>
+<district>Blanche Kelso Bruce Academy</district>
+<districtNCESId>2600272</districtNCESId>
+<address>8333 Townsend Street, Detroit, MI 48213</address>
+<phone>(313) 895-2200</phone>
+<fax>(313) 895-4976</fax>
+<website/>
+<ncesId>260027208054</ncesId>
+<lat>42.389343</lat>
+<lon>-83.024055</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9052-Blanche-Kelso-Bruce-Academy---St.-Thomas-Site/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9052xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9052xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9052
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5205</gsId>
+<name>Blanche Kelso Bruce Academy-Connor</name>
+<type>charter</type>
+<gradeRange>5-12</gradeRange>
+<enrollment>115</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>819</districtId>
+<district>Blanche Kelso Bruce Academy</district>
+<districtNCESId>2600272</districtNCESId>
+<address>5555 Conner Avenue, Detroit, MI 48213</address>
+<phone>(313) 656-2600</phone>
+<fax>(313) 924-0095</fax>
+<website/>
+<ncesId>260027201483</ncesId>
+<lat>42.390488</lat>
+<lon>-82.981766</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5205-Blanche-Kelso-Bruce-Academy-Connor/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx5205xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx5205xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5205
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6045</gsId>
+<name>Blanche Kelso Bruce Academy-Depaul</name>
+<type>charter</type>
+<gradeRange>5-12</gradeRange>
+<enrollment>17</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>819</districtId>
+<district>Blanche Kelso Bruce Academy</district>
+<districtNCESId>2600272</districtNCESId>
+<address>609 East Grand Boulevard, Detroit, MI 48207</address>
+<phone>(313) 656-2600</phone>
+<fax>(313) 568-6116</fax>
+<website/>
+<ncesId>260027201940</ncesId>
+<lat>42.359734</lat>
+<lon>-83.01068</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6045-Blanche-Kelso-Bruce-Academy-Depaul/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx6045xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx6045xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6045
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6168</gsId>
+<name>Blanche Kelso Bruce Academy-St. Antoine</name>
+<type>charter</type>
+<gradeRange>5-12</gradeRange>
+<enrollment>98</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>819</districtId>
+<district>Blanche Kelso Bruce Academy</district>
+<districtNCESId>2600272</districtNCESId>
+<address>1326 Saint Antoine Street, Detroit, MI 48226</address>
+<phone>(313) 646-2600</phone>
+<fax>(313) 568-6116</fax>
+<website/>
+<ncesId>260027207483</ncesId>
+<lat>42.33707</lat>
+<lon>-83.04054</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6168-Blanche-Kelso-Bruce-Academy-St.-Antoine/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx6168xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx6168xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6168
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1230</gsId>
+<name>Bow Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>454</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>19801 Prevost Street, Detroit, MI 48235</address>
+<phone>(313) 852-0500</phone>
+<fax>(313) 852-0508</fax>
+<website>http://detroitk12.org/schools/school/027/</website>
+<ncesId>261200004851</ncesId>
+<lat>42.436638</lat>
+<lon>-83.20482</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1230-Bow-Elementary-Middle-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1230xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1230xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1230
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5617</gsId>
+<name>Brenda Scott Academy For Theatre Arts</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>841</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>18440 Hoover Street, Detroit, MI 48205</address>
+<phone>(313) 866-6700</phone>
+<fax>(313) 866-2693</fax>
+<website>
+http://icansoar.org/schools/elementary-middle/brenda-scott-academy/
+</website>
+<ncesId>261200001676</ncesId>
+<lat>42.428978</lat>
+<lon>-83.00378</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5617-Brenda-Scott-Academy-For-Theatre-Arts/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx5617xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx5617xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5617
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9031</gsId>
+<name>Brewer Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>517</enrollment>
+<gsRating>4</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>18025 Brock Avenue, Detroit, MI 48205</address>
+<phone>(313) 866-0404</phone>
+<fax>(313) 866-2017</fax>
+<website>http://detroitk12.org/schools/school/769/</website>
+<ncesId>261200008081</ncesId>
+<lat>42.42868</lat>
+<lon>-82.96373</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9031-Brewer-Elementary-Middle-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9031xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9031xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9031
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9096</gsId>
+<name>Bridge Academy - Middle</name>
+<type>charter</type>
+<gradeRange>6-8</gradeRange>
+<enrollment>222</enrollment>
+<gsRating>6</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>890</districtId>
+<district>Bridge Academy</district>
+<districtNCESId>2600306</districtNCESId>
+<address>3105 Carpenter Road, Detroit, MI 48212</address>
+<phone>(313) 462-6100</phone>
+<fax>(313) 462-6101</fax>
+<website/>
+<ncesId>260030608288</ncesId>
+<lat>42.40736</lat>
+<lon>-83.0618</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9096-Bridge-Academy---Middle/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9096xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9096xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9096
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1222</gsId>
+<name>Brown Ronald Academy</name>
+<type>public</type>
+<gradeRange>K-6</gradeRange>
+<enrollment>653</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>11530 Outer Drive, Detroit, MI 48223</address>
+<phone>(313) 886-2611</phone>
+<fax>(313) 886-2860</fax>
+<website>http://detroitk12.org/schools/Brown</website>
+<ncesId>261200004841</ncesId>
+<lat>42.40447</lat>
+<lon>-82.947784</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1222-Brown-Ronald-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1222xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1222xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1222
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1062</gsId>
+<name>Bunche Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>473</enrollment>
+<gsRating>2</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2715 Macomb Street, Detroit, MI 48207</address>
+<phone>(313) 494-8350</phone>
+<fax>(313) 866-7943</fax>
+<website>http://detroitk12.org/schools/school/032/</website>
+<ncesId>261200004658</ncesId>
+<lat>42.34347</lat>
+<lon>-83.02474</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1062-Bunche-Elementary-Middle-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1062xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1062xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1062
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1064</gsId>
+<name>Burns Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>PK-8 xxx ungraded</gradeRange>
+<enrollment>597</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>14350 Terry St, Detroit, MI 48227</address>
+<phone>(313) 852-0534</phone>
+<fax>(313) 852-0539</fax>
+<website>www.icansoar.org</website>
+<ncesId>261200004660</ncesId>
+<lat>42.39373</lat>
+<lon>-83.19107</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1064-Burns-Elementary-Middle-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1064xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1064xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1064
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1067</gsId>
+<name>Burton International School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>545</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>
+2001 Martin Luther King Junior Boulevard, Detroit, MI 48208
+</address>
+<phone>(313) 596-3800</phone>
+<fax>(313) 596-3807</fax>
+<website>http://detroitk12.org/schools/Burton</website>
+<ncesId>261200004663</ncesId>
+<lat>42.339424</lat>
+<lon>-83.07838</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1067-Burton-International-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1067xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1067xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1067
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9215</gsId>
+<name>
+Capstone Academy Charter School (SDA) - South Campus
+</name>
+<type>charter</type>
+<gradeRange>4-12</gradeRange>
+<enrollment>65</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>985</districtId>
+<district>Capstone Academy Charter School (Sda)</district>
+<districtNCESId/>
+<address>3500 John R Street, Detroit, MI 48201</address>
+<phone>(313) 202-6082</phone>
+<fax>(313) 831-3510</fax>
+<website/>
+<ncesId/>
+<lat>42.347412</lat>
+<lon>-83.055214</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9215-Capstone-Academy-Charter-School-(SDA)---South-Campus/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9215xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9215xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9215
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1251</gsId>
+<name>Carleton Elementary School</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>306</enrollment>
+<gsRating>5</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>11724 Casino Avenue, Detroit, MI 48224</address>
+<phone>(313) 866-8322</phone>
+<fax>(313) 866-8333</fax>
+<website>http://detroitk12.org/schools/Carleton</website>
+<ncesId>261200004880</ncesId>
+<lat>42.427544</lat>
+<lon>-82.945244</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1251-Carleton-Elementary-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1251xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1251xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1251
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1071</gsId>
+<name>Carstens Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>495</enrollment>
+<gsRating>2</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>13000 Essex Avenue, Detroit, MI 48215</address>
+<phone>(313) 866-5500</phone>
+<fax>(313) 866-5580</fax>
+<website>http://detroitk12.org/schools/Carstens</website>
+<ncesId>261200004667</ncesId>
+<lat>42.36419</lat>
+<lon>-82.9484</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1071-Carstens-Elementary-Middle-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1071xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1071xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1071
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1072</gsId>
+<name>Carver Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>338</enrollment>
+<gsRating>3</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>18701 Paul Street, Detroit, MI 48228</address>
+<phone>(313) 240-6622</phone>
+<fax>(313) 240-8741</fax>
+<website>http://detroitk12.org/schools/school/057/</website>
+<ncesId>261200004668</ncesId>
+<lat>42.33602</lat>
+<lon>-83.22297</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1072-Carver-Elementary-Middle-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1072xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1072xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1072
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1073</gsId>
+<name>Cass Technical High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>2305</enrollment>
+<gsRating>7</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2501 2nd Avenue, Detroit, MI 48201</address>
+<phone>(313) 263-2000</phone>
+<fax>(313) 263-2001</fax>
+<website>http://detroitk12.org/schools/casstech</website>
+<ncesId>261200004669</ncesId>
+<lat>42.338608</lat>
+<lon>-83.05998</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1073-Cass-Technical-High-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1073xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1073xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1073
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1074</gsId>
+<name>Central Collegiate Academy</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>452</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>2425 Tuxedo Street, Detroit, MI 48206</address>
+<phone>(313) 252-3000</phone>
+<fax>(313) 852-1445</fax>
+<website>http://detroitk12.org/schools/school/512/</website>
+<ncesId>261200004670</ncesId>
+<lat>42.384747</lat>
+<lon>-83.112656</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1074-Central-Collegiate-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1074xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1074xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1074
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9706</gsId>
+<name>Cesar Chavez Academy - Elementary East</name>
+<type>charter</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>54</enrollment>
+<gsRating>1</gsRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>91</districtId>
+<district>Cesar Chavez Academy</district>
+<districtNCESId>2600139</districtNCESId>
+<address>4130 Maxwell St, Detroit, MI 48214</address>
+<phone>(313) 924-0317</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.370605</lat>
+<lon>-83.00619</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9706-Cesar-Chavez-Academy---Elementary-East/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9706xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9706xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9706
+</schoolStatsLink>
+</school>
+<school>
+<gsId>161</gsId>
+<name>Cesar Chavez Academy Elementary</name>
+<type>charter</type>
+<gradeRange>K-2</gradeRange>
+<enrollment>444</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>91</districtId>
+<district>Cesar Chavez Academy</district>
+<districtNCESId>2600139</districtNCESId>
+<address>8126 Vernor Highway, Detroit, MI 48209</address>
+<phone>(313) 843-9440</phone>
+<fax>(313) 297-6948</fax>
+<website/>
+<ncesId>260013900789</ncesId>
+<lat>42.3108</lat>
+<lon>-83.12879</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/161-Cesar-Chavez-Academy-Elementary/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx161xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx161xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/161
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9038</gsId>
+<name>Cesar Chavez Academy Intermediate</name>
+<type>charter</type>
+<gradeRange>3-5</gradeRange>
+<enrollment>411</enrollment>
+<gsRating>5</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>91</districtId>
+<district>Cesar Chavez Academy</district>
+<districtNCESId>2600139</districtNCESId>
+<address>4100 Martin Road, Detroit, MI 48210</address>
+<phone>(313) 361-1083</phone>
+<fax>(313) 361-1095</fax>
+<website/>
+<ncesId>260013908078</ncesId>
+<lat>42.328873</lat>
+<lon>-83.12585</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9038-Cesar-Chavez-Academy-Intermediate/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9038xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9038xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9038
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5195</gsId>
+<name>Cesar Chavez High School</name>
+<type>charter</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>704</enrollment>
+<gsRating>3</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>91</districtId>
+<district>Cesar Chavez Academy</district>
+<districtNCESId>2600139</districtNCESId>
+<address>1761 Waterman Street, Detroit, MI 48209</address>
+<phone>(313) 551-0611</phone>
+<fax>(313) 552-0552</fax>
+<website/>
+<ncesId>260013901488</ncesId>
+<lat>42.312237</lat>
+<lon>-83.114685</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5195-Cesar-Chavez-High-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx5195xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx5195xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5195
+</schoolStatsLink>
+</school>
+<school>
+<gsId>162</gsId>
+<name>Cesar Chavez Middle School</name>
+<type>charter</type>
+<gradeRange>6-8</gradeRange>
+<enrollment>557</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>91</districtId>
+<district>Cesar Chavez Academy</district>
+<districtNCESId>2600139</districtNCESId>
+<address>6782 Goldsmith Street, Detroit, MI 48209</address>
+<phone>(313) 842-0006</phone>
+<fax>(313) 842-0167</fax>
+<website/>
+<ncesId>260013901033</ncesId>
+<lat>42.311462</lat>
+<lon>-83.115425</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/162-Cesar-Chavez-Middle-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx162xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx162xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/162
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9711</gsId>
+<name>Charles R. Drew Transition Center</name>
+<type>public</type>
+<gradeRange>n/a</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>9600 Wyoming Street, Detroit, MI 48204</address>
+<phone>(313) 873-6880</phone>
+<fax>(313) 651-0157</fax>
+<website/>
+<ncesId>261200008275</ncesId>
+<lat>42.367355</lat>
+<lon>-83.15651</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9711-Charles-R.-Drew-Transition-Center/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9711xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9711xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9711
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6245</gsId>
+<name>Charlotte Mason Community School</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>39</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>1419 West Warren Avenue, Detroit, MI 48216</address>
+<phone>(313) 338-3481</phone>
+<fax>(313) 338-3498</fax>
+<website>http://www.charlottemasoncs.org</website>
+<ncesId/>
+<lat>42.35219</lat>
+<lon>-83.0776</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6245-Charlotte-Mason-Community-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx6245xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx6245xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/6245
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5493</gsId>
+<name>Childs Place</name>
+<type>private</type>
+<gradeRange>K</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>1055 Trumbull, Detroit, MI 48216</address>
+<phone>(313) 965-6714</phone>
+<fax/>
+<website/>
+<ncesId>BB021238</ncesId>
+<lat>42.3261</lat>
+<lon>-83.0629</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5493-Childs-Place/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx5493xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx5493xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/5493
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4015</gsId>
+<name>Christ The King School</name>
+<type>private</type>
+<gradeRange>PK-8</gradeRange>
+<enrollment>175</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>16800 Trinity Street, Detroit, MI 48219</address>
+<phone>(313) 532-1213</phone>
+<fax>(313) 532-1050</fax>
+<website>http://christthekingschooldetroit.org/</website>
+<ncesId>00637843</ncesId>
+<lat>42.413956</lat>
+<lon>-83.24804</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4015-Christ-The-King-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx4015xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx4015xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4015
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1078</gsId>
+<name>Chrysler Elementary School</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>173</enrollment>
+<gsRating>6</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>1445 East Lafayette Street, Detroit, MI 48207</address>
+<phone>(313) 494-8440</phone>
+<fax>(313) 494-8367</fax>
+<website>http://detroitk12.org/schools/school/062/</website>
+<ncesId>261200004675</ncesId>
+<lat>42.338493</lat>
+<lon>-83.03355</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1078-Chrysler-Elementary-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1078xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1078xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1078
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8645</gsId>
+<name>City Mission Academy</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>20405 Schoolcraft, Detroit, MI 48223</address>
+<phone>(313) 541-3531</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.38597</lat>
+<lon>-83.24123</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8645-City-Mission-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx8645xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx8645xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/8645
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9033</gsId>
+<name>Clark J.E. Preparatory Academy</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>726</enrollment>
+<gsRating>2</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>15755 Bremen Street, Detroit, MI 48224</address>
+<phone>(313) 417-9340</phone>
+<fax>(313) 417-9345</fax>
+<website/>
+<ncesId>261200008052</ncesId>
+<lat>42.394657</lat>
+<lon>-82.94136</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9033-Clark-J.E.-Preparatory-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9033xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9033xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9033
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1052</gsId>
+<name>Clemente, Roberto Academy</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>684</enrollment>
+<gsRating>3</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>1551 Beard Street, Detroit, MI 48209</address>
+<phone>(313) 849-3489</phone>
+<fax>(313) 849-6304</fax>
+<website>http://detroitk12.org/schools/Clemente</website>
+<ncesId>261200004646</ncesId>
+<lat>42.309772</lat>
+<lon>-83.11623</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1052-Clemente,-Roberto-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1052xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1052xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1052
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8591</gsId>
+<name>Clinton St. Greater Beth Tem CHRC</name>
+<type>private</type>
+<gradeRange>K-12</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>2901 Rochester, Detroit, MI 48206</address>
+<phone>(313) 361-1114</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.376034</lat>
+<lon>-83.11437</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8591-Clinton-St.-Greater-Beth-Tem-CHRC/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx8591xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx8591xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/8591
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1275</gsId>
+<name>Clippert Academy</name>
+<type>public</type>
+<gradeRange>5-8</gradeRange>
+<enrollment>497</enrollment>
+<gsRating>3</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>1981 McKinstry Street, Detroit, MI 48209</address>
+<phone>(313) 849-5009</phone>
+<fax>(313) 849-5740</fax>
+<website>http://detroitk12.org/schools/school/065/</website>
+<ncesId>261200007754</ncesId>
+<lat>42.320717</lat>
+<lon>-83.09821</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1275-Clippert-Academy/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1275xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1275xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1275
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9016</gsId>
+<name>Cody Academy Of Public Leadership</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>356</enrollment>
+<gsRating>1</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>18445 Cathedral Street, Detroit, MI 48228</address>
+<phone>(313) 866-9200</phone>
+<fax>(313) 866-9266</fax>
+<website/>
+<ncesId>261200008050</ncesId>
+<lat>42.361248</lat>
+<lon>-83.220764</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9016-Cody-Academy-Of-Public-Leadership/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9016xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9016xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9016
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1016</gsId>
+<name>Communication And Media Arts High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>608</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>14771 Mansfield Street, Detroit, MI 48227</address>
+<phone>(313) 866-9300</phone>
+<fax>(313) 866-9304</fax>
+<website>http://detroitk12.org/schools/CommArts</website>
+<ncesId>261200000079</ncesId>
+<lat>42.39795</lat>
+<lon>-83.20514</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1016-Communication-And-Media-Arts-High-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1016xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1016xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1016
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1084</gsId>
+<name>Cooke Elementary School</name>
+<type>public</type>
+<gradeRange>K-6</gradeRange>
+<enrollment>339</enrollment>
+<gsRating>3</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>18800 Puritan Avenue, Detroit, MI 48223</address>
+<phone>(313) 494-7458</phone>
+<fax>(313) 494-7759</fax>
+<website>http://detroitk12.org/schools/Cooke</website>
+<ncesId>261200004683</ncesId>
+<lat>42.409073</lat>
+<lon>-83.22562</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1084-Cooke-Elementary-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx1084xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx1084xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1084
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9082</gsId>
+<name>Cornerstone Health School</name>
+<type>charter</type>
+<gradeRange>9-11</gradeRange>
+<enrollment>460</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>994</districtId>
+<district>Cornerstone Health School</district>
+<districtNCESId/>
+<address>17351 Southfield Fwy, Detroit, MI 48219</address>
+<phone>(313) 486-4620</phone>
+<fax/>
+<website>
+http://www.cornerstonecharters.org/health-high-school/
+</website>
+<ncesId>260103008322</ncesId>
+<lat>42.419422</lat>
+<lon>-83.219</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9082-Cornerstone-Health-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9082xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9082xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9082
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9210</gsId>
+<name>Cornerstone Leadership xxx Business High School</name>
+<type>private</type>
+<gradeRange>9-12</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>6861 E Nevada St, Detroit, MI 48234</address>
+<phone>(313) 892-1860</phone>
+<fax>(313) 892-1861</fax>
+<website/>
+<ncesId/>
+<lat>42.42843</lat>
+<lon>-83.03005</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9210-Cornerstone-Leadership-xxx-Business-High-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx9210xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx9210xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/9210
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8610</gsId>
+<name>Cornerstone Nevada Middle</name>
+<type>private</type>
+<gradeRange>6-8</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>6861 East Nevada St, Detroit, MI 48234</address>
+<phone>(313) 892-1860</phone>
+<fax>(313) 892-1861</fax>
+<website/>
+<ncesId/>
+<lat>42.427822</lat>
+<lon>-83.03019</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8610-Cornerstone-Nevada-Middle/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx8610xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx8610xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/8610
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4718</gsId>
+<name>Cornerstone School</name>
+<type>private</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>114</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>2411 Iroquois St, Detroit, MI 48214</address>
+<phone>(313) 571-0370</phone>
+<fax>(313) 571-0391</fax>
+<website>http://www.cornerstoneschools.org</website>
+<ncesId>A9303344</ncesId>
+<lat>42.36225</lat>
+<lon>-82.99793</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4718-Cornerstone-School/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx4718xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx4718xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4718
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4734</gsId>
+<name>Cornerstone School--Nevada Primary</name>
+<type>private</type>
+<gradeRange>K-5</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>6861 East Nevada St, Detroit, MI 48234</address>
+<phone>(313) 892-1860</phone>
+<fax>(313) 892-1861</fax>
+<website/>
+<ncesId>A9303499</ncesId>
+<lat>42.427822</lat>
+<lon>-83.03019</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4734-Cornerstone-School--Nevada-Primary/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx4734xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx4734xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4734
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8609</gsId>
+<name>Cornerstone Schools Grove</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>13436 Grove Avenue, Detroit, MI 48235</address>
+<phone>(313) 892-1860</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.413975</lat>
+<lon>-83.17792</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8609-Cornerstone-Schools-Grove/?s_cgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxx8609xxxs_cgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxx8609xxxs_cgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/8609
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6061</gsId>
+<name>Covenant House Academy Central</name>
+<type>charter</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>353</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>892</districtId>
+<district>Covenant House Academy Detroit</district>
+<districtNCESId>2600322</districtNCESId>
+<address>
+2959 Martin Luther King Junior Boulevard, Detroit, MI 48208
+</address>
+<phone>(313) 463-2023</phone>
+<fax>(313) 463-2099</fax>
+<website/>
+<ncesId>260032201949</ncesId>
+<lat>42.33598</lat>
+<lon>-83.08865</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6061-Covenant-House-Academy-Central/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi6061xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi6061xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6061
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6062</gsId>
+<name>Covenant House Academy Detroit - East Site</name>
+<type>charter</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>257</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>892</districtId>
+<district>Covenant House Academy Detroit</district>
+<districtNCESId>2600322</districtNCESId>
+<address>7600 Goethe Street, Detroit, MI 48214</address>
+<phone>(313) 463-2023</phone>
+<fax>(313) 463-2099</fax>
+<website>http://www.lifeskillscenters.com</website>
+<ncesId>260032101948</ncesId>
+<lat>42.3632</lat>
+<lon>-83.00734</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6062-Covenant-House-Academy-Detroit---East-Site/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi6062xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi6062xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6062
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6063</gsId>
+<name>Covenant House Academy Southwest</name>
+<type>charter</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>215</enrollment>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>892</districtId>
+<district>Covenant House Academy Detroit</district>
+<districtNCESId>2600322</districtNCESId>
+<address>1450 25th Street, Detroit, MI 48216</address>
+<phone>(313) 463-2023</phone>
+<fax>(313) 463-2099</fax>
+<website/>
+<ncesId>260032001947</ncesId>
+<lat>42.32049</lat>
+<lon>-83.08532</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6063-Covenant-House-Academy-Southwest/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi6063xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi6063xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6063
+</schoolStatsLink>
+</school>
+<school>
+<gsId>255</gsId>
+<name>David Ellis Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>416</enrollment>
+<gsRating>3</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>185</districtId>
+<district>David Ellis Academy</district>
+<districtNCESId>2600234</districtNCESId>
+<address>18977 Schaefer Highway, Detroit, MI 48235</address>
+<phone>(313) 450-0642</phone>
+<fax>(313) 450-0644</fax>
+<website>http://davidellisacademy.com</website>
+<ncesId>260023401204</ncesId>
+<lat>42.430267</lat>
+<lon>-83.180786</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/255-David-Ellis-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi255xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi255xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/255
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1023</gsId>
+<name>Davis Aerospace High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>172</enrollment>
+<gsRating>4</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>900 Dickerson Avenue, Detroit, MI 48215</address>
+<phone>(313) 866-5401</phone>
+<fax>(313) 866-5408</fax>
+<website>http://www.davisaerospace.org</website>
+<ncesId>261200000279</ncesId>
+<lat>42.369717</lat>
+<lon>-82.951645</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1023-Davis-Aerospace-High-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi1023xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi1023xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1023
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1093</gsId>
+<name>Davison Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>674</enrollment>
+<gsRating>7</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2800 East Davison Street, Detroit, MI 48212</address>
+<phone>(313) 252-3118</phone>
+<fax>(313) 866-0919</fax>
+<website>http://detroitk12.org/schools/school/088/</website>
+<ncesId>261200004692</ncesId>
+<lat>42.41318</lat>
+<lon>-83.069984</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1093-Davison-Elementary-Middle-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi1093xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi1093xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1093
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1094</gsId>
+<name>Denby High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>725</enrollment>
+<gsRating>1</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>12800 Kelly Road, Detroit, MI 48224</address>
+<phone>(313) 866-7200</phone>
+<fax>(313) 866-2032</fax>
+<website>http://detroitk12.org/schools/Denby</website>
+<ncesId>261200004693</ncesId>
+<lat>42.426666</lat>
+<lon>-82.956856</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1094-Denby-High-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi1094xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi1094xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1094
+</schoolStatsLink>
+</school>
+<school>
+<gsId>198</gsId>
+<name>Detroit Academy Of Arts And Sciences</name>
+<type>charter</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>653</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>125</districtId>
+<district>Detroit Academy Of Arts And Sciences</district>
+<districtNCESId>2600174</districtNCESId>
+<address>2985 Jefferson Avenue, Detroit, MI 48207</address>
+<phone>(313) 259-1744</phone>
+<fax>(313) 393-3404</fax>
+<website>http://daask12.com</website>
+<ncesId>260017401043</ncesId>
+<lat>42.34051</lat>
+<lon>-83.01839</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/198-Detroit-Academy-Of-Arts-And-Sciences/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi198xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi198xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/198
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4992</gsId>
+<name>Detroit Academy Of Arts And Sciences Middle School</name>
+<type>charter</type>
+<gradeRange>6-8</gradeRange>
+<enrollment>374</enrollment>
+<gsRating>3</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>125</districtId>
+<district>Detroit Academy Of Arts And Sciences</district>
+<districtNCESId>2600174</districtNCESId>
+<address>2985 Jefferson Avenue, Detroit, MI 48207</address>
+<phone>(313) 259-1744</phone>
+<fax>(313) 393-3404</fax>
+<website>http://daask12.com</website>
+<ncesId>260017401442</ncesId>
+<lat>42.34051</lat>
+<lon>-83.01839</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4992-Detroit-Academy-Of-Arts-And-Sciences-Middle-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi4992xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxi4992xxxs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/4992
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9710</gsId>
+<name>Detroit Achievement Academy</name>
+<type>charter</type>
+<gradeRange>K-2</gradeRange>
+<enrollment>30</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>1046</districtId>
+<district>Detroit Achievement Academy</district>
+<districtNCESId/>
+<address>15000 Southfield Fwy, Detroit, MI 48223</address>
+<phone>(917) 568-1746</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.398026</lat>
+<lon>-83.218094</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9710-Detroit-Achievement-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxi9710xxxs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9710xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9710
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9538</gsId>
+<name>Detroit Christian Schools of Excellence</name>
+<type>private</type>
+<gradeRange>K-5, 7, 9-10, 12</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>7000 W. Outer Drive, Detroit, MI 48235</address>
+<phone>(313) 281-8144</phone>
+<fax>(313) 281-8128</fax>
+<website/>
+<ncesId/>
+<lat>42.420086</lat>
+<lon>-83.200775</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9538-Detroit-Christian-Schools-Of-Excellence/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9538xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9538xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/9538
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6066</gsId>
+<name>Detroit Community Schools-Elementary</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>374</enrollment>
+<gsRating>1</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>121</districtId>
+<district>Detroit Community Schools</district>
+<districtNCESId>2600170</districtNCESId>
+<address>12675 Burt Road, Detroit, MI 48223</address>
+<phone>(313) 537-3570</phone>
+<fax>(313) 537-6904</fax>
+<website>http://dchigschool.org</website>
+<ncesId>260017001934</ncesId>
+<lat>42.38019</lat>
+<lon>-83.2466</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6066-Detroit-Community-Schools-Elementary/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi6066xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi6066xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6066
+</schoolStatsLink>
+</school>
+<school>
+<gsId>194</gsId>
+<name>Detroit Community Schools-High School</name>
+<type>charter</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>429</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>121</districtId>
+<district>Detroit Community Schools</district>
+<districtNCESId>2600170</districtNCESId>
+<address>12675 Burt Road, Detroit, MI 48223</address>
+<phone>(313) 537-3570</phone>
+<fax>(313) 537-6904</fax>
+<website/>
+<ncesId>260017001039</ncesId>
+<lat>42.38019</lat>
+<lon>-83.2466</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/194-Detroit-Community-Schools-High-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi194xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi194xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/194
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9107</gsId>
+<name>Detroit Cristo Rey High School</name>
+<type>private</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>300</enrollment>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>5679 West Vernor Hwy, Detroit, MI 48209</address>
+<phone>(313) 843-2747</phone>
+<fax>(313) 843-2750</fax>
+<website>http://www.detroitcristorey.org</website>
+<ncesId/>
+<lat>42.31709</lat>
+<lon>-83.10323</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9107-Detroit-Cristo-Rey-High-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9107xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9107xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/9107
+</schoolStatsLink>
+</school>
+<school>
+<gsId>13314</gsId>
+<name>
+Detroit Delta Preparatory Academy For Social Justice
+</name>
+<type>charter</type>
+<gradeRange>9-10</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>3550 John C Lodge Freeway, Detroit, MI 48201</address>
+<phone>(248) 809-2288</phone>
+<fax>(248) 809-2093</fax>
+<website/>
+<ncesId/>
+<lat>42.34424</lat>
+<lon>-83.06703</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/13314-Detroit-Delta-Preparatory-Academy-For-Social-Justice/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi13314xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi13314xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/13314
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6067</gsId>
+<name>Detroit Enterprise Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>525</enrollment>
+<gsRating>6</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>896</districtId>
+<district>Detroit Enterprise Academy</district>
+<districtNCESId>2600302</districtNCESId>
+<address>11224 Kercheval Avenue, Detroit, MI 48214</address>
+<phone>(313) 823-5799</phone>
+<fax>(313) 823-0342</fax>
+<website/>
+<ncesId>260030201738</ncesId>
+<lat>42.368595</lat>
+<lon>-82.9728</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6067-Detroit-Enterprise-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi6067xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi6067xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6067
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9166</gsId>
+<name>Detroit Innovation Academy</name>
+<type>charter</type>
+<gradeRange>K-7</gradeRange>
+<enrollment>228</enrollment>
+<gsRating>5</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>995</districtId>
+<district>Detroit Innovation Academy</district>
+<districtNCESId/>
+<address>18211 Plymouth Rd, Detroit, MI 48228</address>
+<phone>(313) 242-1500</phone>
+<fax>(313) 242-1527</fax>
+<website/>
+<ncesId>260100308307</ncesId>
+<lat>42.370983</lat>
+<lon>-83.217964</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9166-Detroit-Innovation-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9166xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9166xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9166
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9018</gsId>
+<name>Detroit Institute Of Technology At Cody</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>317</enrollment>
+<gsRating>2</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>18445 Cathedral Street, Detroit, MI 48228</address>
+<phone>(313) 866-9200</phone>
+<fax>(313) 866-9266</fax>
+<website/>
+<ncesId>261200008040</ncesId>
+<lat>42.361248</lat>
+<lon>-83.220764</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9018-Detroit-Institute-Of-Technology-At-Cody/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9018xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9018xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9018
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8939</gsId>
+<name>Detroit International Academy For Young Women</name>
+<type>public</type>
+<gradeRange>K-12</gradeRange>
+<enrollment>465</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>9026 Woodward Avenue, Detroit, MI 48202</address>
+<phone>(313) 873-3050</phone>
+<fax>(313) 873-3088</fax>
+<website/>
+<ncesId>261200007972</ncesId>
+<lat>42.38297</lat>
+<lon>-83.07975</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8939-Detroit-International-Academy-For-Young-Women/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi8939xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi8939xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/8939
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9040</gsId>
+<name>Detroit Leadership Academy</name>
+<type>charter</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>272</enrollment>
+<gsRating>1</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>943</districtId>
+<district>Detroit Leadership Academy</district>
+<districtNCESId>2600974</districtNCESId>
+<address>13550 Virgil Street, Detroit, MI 48223</address>
+<phone>(313) 242-1500</phone>
+<fax>(313) 242-1527</fax>
+<website/>
+<ncesId>260097408187</ncesId>
+<lat>42.3844</lat>
+<lon>-83.270744</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9040-Detroit-Leadership-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9040xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9040xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9040
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9713</gsId>
+<name>Detroit Leadership Academy Middle/High</name>
+<type>charter</type>
+<gradeRange>6-10</gradeRange>
+<enrollment>207</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>943</districtId>
+<district>Detroit Leadership Academy</district>
+<districtNCESId>2600974</districtNCESId>
+<address>5845 Auburn St, Detroit, MI 48228</address>
+<phone>(313) 242-1500</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.3312</lat>
+<lon>-83.23247</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9713-Detroit-Leadership-Academy-Middle-High/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9713xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9713xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9713
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5023</gsId>
+<name>Detroit Lions Alternative Education</name>
+<type>public</type>
+<gradeRange>6-8</gradeRange>
+<enrollment>113</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>10101 East Canfield Street, Detroit, MI 48214</address>
+<phone>(313) 852-9677</phone>
+<fax>(313) 852-9676</fax>
+<website>http://detroitk12.org/schools/Lions</website>
+<ncesId>261200001419</ncesId>
+<lat>42.37814</lat>
+<lon>-82.993935</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5023-Detroit-Lions-Alternative-Education/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi5023xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi5023xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5023
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5209</gsId>
+<name>Detroit Merit Charter Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>729</enrollment>
+<gsRating>7</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>827</districtId>
+<district>Detroit Merit Charter Academy</district>
+<districtNCESId>2600278</districtNCESId>
+<address>1091 Alter Road, Detroit, MI 48215</address>
+<phone>(313) 331-3328</phone>
+<fax>(313) 331-3278</fax>
+<website/>
+<ncesId>260027801484</ncesId>
+<lat>42.375854</lat>
+<lon>-82.94069</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5209-Detroit-Merit-Charter-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi5209xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi5209xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5209
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6070</gsId>
+<name>Detroit Premier Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>727</enrollment>
+<gsRating>4</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>897</districtId>
+<district>Detroit Premier Academy</district>
+<districtNCESId>2600307</districtNCESId>
+<address>7781 Asbury Park, Detroit, MI 48228</address>
+<phone>(313) 945-1472</phone>
+<fax>(313) 945-1744</fax>
+<website/>
+<ncesId>260030701943</ncesId>
+<lat>42.349598</lat>
+<lon>-83.20638</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6070-Detroit-Premier-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi6070xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi6070xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6070
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9714</gsId>
+<name>Detroit Public Safety Academy</name>
+<type>charter</type>
+<gradeRange>7-12</gradeRange>
+<enrollment>56</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>1047</districtId>
+<district>Detroit Public Safety Academy</district>
+<districtNCESId/>
+<address>1250 Rosa Parks Blvd, Detroit, MI 48216</address>
+<phone>(313) 587-0956</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.32514</lat>
+<lon>-83.067314</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9714-Detroit-Public-Safety-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9714xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9714xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9714
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1022</gsId>
+<name>Detroit School of Arts</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>610</enrollment>
+<gsRating>4</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>123 Selden St, Detroit, MI 48201</address>
+<phone>(313) 494-6000</phone>
+<fax>(313) 494-2129</fax>
+<website>http://dsa.schools.detroitk12.org/</website>
+<ncesId>261200000093</ncesId>
+<lat>42.348785</lat>
+<lon>-83.06103</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1022-Detroit-School-Of-Arts/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1022xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1022xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1022
+</schoolStatsLink>
+</school>
+<school>
+<gsId>260</gsId>
+<name>Detroit Service Learning Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>975</enrollment>
+<gsRating>3</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>190</districtId>
+<district>Detroit Service Learning Academy</district>
+<districtNCESId>2600239</districtNCESId>
+<address>21605 West Seven Mile Road, Detroit, MI 48219</address>
+<phone>(313) 541-7619</phone>
+<fax>(313) 541-7656</fax>
+<website>http://www.detroitsla.org</website>
+<ncesId>260023901209</ncesId>
+<lat>42.42915</lat>
+<lon>-83.25676</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/260-Detroit-Service-Learning-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi260xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi260xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/260
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4297</gsId>
+<name>Detroit Urban Lutheran School</name>
+<type>private</type>
+<gradeRange>PK-12</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>8181 Greenfield Rd, Detroit, MI 48228</address>
+<phone>(313) 582-9900</phone>
+<fax/>
+<website>http://www.detroiturbanlutheran.com/</website>
+<ncesId>00642321</ncesId>
+<lat>42.354366</lat>
+<lon>-83.19856</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4297-Detroit-Urban-Lutheran-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi4297xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi4297xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4297
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4273</gsId>
+<name>Detroit Waldorf School</name>
+<type>private</type>
+<gradeRange>PK-8</gradeRange>
+<enrollment>172</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>2555 Burns Ave, Detroit, MI 48214</address>
+<phone>(313) 822-0300</phone>
+<fax>(313) 822-4030</fax>
+<website>www.detroitwaldorf.org</website>
+<ncesId>00641962</ncesId>
+<lat>42.364468</lat>
+<lon>-82.99702</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4273-Detroit-Waldorf-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi4273xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi4273xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4273
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1096</gsId>
+<name>Dixon Elementary School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>732</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>8401 Trinity Street, Detroit, MI 48228</address>
+<phone>(313) 947-1330</phone>
+<fax>(313) 947-1557</fax>
+<website>http://detroitk12.org/schools/school/090/</website>
+<ncesId>261200004695</ncesId>
+<lat>42.353752</lat>
+<lon>-83.24682</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1096-Dixon-Elementary-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1096xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1096xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1096
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1097</gsId>
+<name>Dossin Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>386</enrollment>
+<gsRating>5</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>16650 Glendale Street, Detroit, MI 48227</address>
+<phone>(313) 866-9390</phone>
+<fax>(313) 866-9386</fax>
+<website>http://detroitk12.org/schools/school/091/</website>
+<ncesId>261200004696</ncesId>
+<lat>42.38335</lat>
+<lon>-83.2108</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1097-Dossin-Elementary-Middle-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1097xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1097xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1097
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1272</gsId>
+<name>Douglass Academy For Young Men</name>
+<type>public</type>
+<gradeRange>6-12</gradeRange>
+<enrollment>246</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2001 West Warren Avenue, Detroit, MI 48208</address>
+<phone>(313) 596-3555</phone>
+<fax>(313) 596-3552</fax>
+<website>http://detroitk12.org/schools/Douglas</website>
+<ncesId>261200007415</ncesId>
+<lat>42.349277</lat>
+<lon>-83.08351</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1272-Douglass-Academy-For-Young-Men/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1272xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1272xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1272
+</schoolStatsLink>
+</school>
+<school>
+<gsId>199</gsId>
+<name>Dove Academy Of Detroit</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>416</enrollment>
+<gsRating>3</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>126</districtId>
+<district>Dove Academy Of Detroit</district>
+<districtNCESId>2600175</districtNCESId>
+<address>8210 Rolyat Street, Detroit, MI 48234</address>
+<phone>(313) 366-9110</phone>
+<fax>(313) 366-9130</fax>
+<website>http://www.doveacademy.net/</website>
+<ncesId>260017501044</ncesId>
+<lat>42.439594</lat>
+<lon>-83.02077</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/199-Dove-Academy-Of-Detroit/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi199xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi199xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/199
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1100</gsId>
+<name>Durfee Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>593</enrollment>
+<gsRating>2</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2470 Collingwood Street, Detroit, MI 48206</address>
+<phone>(313) 252-3070</phone>
+<fax>(313) 866-0914</fax>
+<website>http://detroitk12.org/schools/school/430/</website>
+<ncesId>261200004701</ncesId>
+<lat>42.381615</lat>
+<lon>-83.110085</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1100-Durfee-Elementary-Middle-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1100xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1100xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1100
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9032</gsId>
+<name>EMAN Hamilton Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>310</enrollment>
+<gsRating>1</gsRating>
+<parentRating>1</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>980</districtId>
+<district>Hamilton Academy</district>
+<districtNCESId/>
+<address>14223 Southampton Street, Detroit, MI 48213</address>
+<phone>(313) 866-4505</phone>
+<fax>(313) 344-7980</fax>
+<website/>
+<ncesId>260098708093</ncesId>
+<lat>42.39893</lat>
+<lon>-82.96303</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9032-EMAN-Hamilton-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9032xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9032xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9032
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9100</gsId>
+<name>Earhart Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>744</enrollment>
+<gsRating>1</gsRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>1000 Scotten Street, Detroit, MI 48209</address>
+<phone>(313) 849-3945</phone>
+<fax>(313) 849-4746</fax>
+<website/>
+<ncesId>261200008245</ncesId>
+<lat>42.316048</lat>
+<lon>-83.089485</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9100-Earhart-Elementary-Middle-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9100xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9100xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9100
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4302</gsId>
+<name>East Bethlehem Lutheran School</name>
+<type>private</type>
+<gradeRange>PK-10</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>3510 E Outer Drive, Detroit, MI 48234</address>
+<phone>(313) 892-2671</phone>
+<fax/>
+<website/>
+<ncesId>00642412</ncesId>
+<lat>42.440315</lat>
+<lon>-83.04328</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4302-East-Bethlehem-Lutheran-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi4302xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi4302xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4302
+</schoolStatsLink>
+</school>
+<school>
+<gsId>3947</gsId>
+<name>East Catholic Elementary School</name>
+<type>private</type>
+<gradeRange>1-8</gradeRange>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>15865 E 7 Mile Rd, Detroit, MI 48205</address>
+<phone>(313) 839-6792</phone>
+<fax/>
+<website/>
+<ncesId>00636806</ncesId>
+<lat>42.43609</lat>
+<lon>-82.95753</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/3947-East-Catholic-Elementary-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi3947xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi3947xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/3947
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4041</gsId>
+<name>East Catholic High School</name>
+<type>private</type>
+<gradeRange>9-12</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>7320 Saint Anthony Pl, Detroit, MI 48213</address>
+<phone>(313) 921-9650</phone>
+<fax/>
+<website/>
+<ncesId>00638177</ncesId>
+<lat>42.3754</lat>
+<lon>-83.0184</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4041-East-Catholic-High-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi4041xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi4041xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4041
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9167</gsId>
+<name>East English Village Preparatory Academy</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>1556</enrollment>
+<gsRating>2</gsRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>17200 Southampton St, Detroit, MI 48224</address>
+<phone>(313) 873-0655</phone>
+<fax>(313) 873-7985</fax>
+<website/>
+<ncesId>261200008306</ncesId>
+<lat>42.40919</lat>
+<lon>-82.929535</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9167-East-English-Village-Preparatory-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9167xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9167xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9167
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4042</gsId>
+<name>Eastside Vicariate School</name>
+<type>private</type>
+<gradeRange>PK-8</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>4230 Mc Dougall Avenue, Detroit, MI 48207</address>
+<phone>(313) 921-0023</phone>
+<fax/>
+<website/>
+<ncesId>00638188</ncesId>
+<lat>42.3087</lat>
+<lon>-83.037</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4042-Eastside-Vicariate-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi4042xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi4042xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4042
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1103</gsId>
+<name>Edison Elementary School</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>281</enrollment>
+<gsRating>2</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>17045 Grand River Avenue, Detroit, MI 48227</address>
+<phone>(313) 852-1066</phone>
+<fax>(313) 852-1060</fax>
+<website>http://detroitk12.org/schools/Edison</website>
+<ncesId>261200004704</ncesId>
+<lat>42.397495</lat>
+<lon>-83.21372</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1103-Edison-Elementary-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1103xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1103xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1103
+</schoolStatsLink>
+</school>
+<school>
+<gsId>253</gsId>
+<name>Edison Public School Academy</name>
+<type>charter</type>
+<gradeRange>K-12</gradeRange>
+<enrollment>1330</enrollment>
+<gsRating>6</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>183</districtId>
+<district>Detroit Edison Public School Academy</district>
+<districtNCESId>2600232</districtNCESId>
+<address>1903 Wilkins Street, Detroit, MI 48207</address>
+<phone>(313) 833-1100</phone>
+<fax>(313) 833-8653</fax>
+<website>http://www.detroitedisonpsa.org</website>
+<ncesId>260023201202</ncesId>
+<lat>42.35149</lat>
+<lon>-83.03754</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/253-Edison-Public-School-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi253xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi253xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/253
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1219</gsId>
+<name>Edward 'Duke' Ellington @ Beckham</name>
+<type>public</type>
+<gradeRange>PK-8 x ungraded</gradeRange>
+<enrollment>697</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>9860 Park Dr, Detroit, MI 48213</address>
+<phone>(313) 852-8500</phone>
+<fax>(313) 852-8511</fax>
+<website>http://detroitk12.org/schools/school/777/</website>
+<ncesId>261200004838</ncesId>
+<lat>42.40604</lat>
+<lon>-82.99532</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1219-Edward-'Duke'-Ellington-@-Beckham/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1219xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1219xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1219
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1105</gsId>
+<name>Emerson Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>711</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>18240 Huntington Road, Detroit, MI 48219</address>
+<phone>(313) 831-9689</phone>
+<fax>(313) 831-9699</fax>
+<website>http://detroitk12.org/schools/school/107/</website>
+<ncesId>261200004707</ncesId>
+<lat>42.42246</lat>
+<lon>-83.23313</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1105-Emerson-Elementary-Middle-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1105xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1105xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1105
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9717</gsId>
+<name>Escuela Avancemos</name>
+<type>charter</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>194</enrollment>
+<gsRating>1</gsRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>1048</districtId>
+<district>Escuela Avancemos</district>
+<districtNCESId/>
+<address>3811 Cicotte Street, Detroit, MI 48210</address>
+<phone>(313) 596-0079</phone>
+<fax>(313) 914-2246</fax>
+<website/>
+<ncesId>260103208398</ncesId>
+<lat>42.328114</lat>
+<lon>-83.12152</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9717-Escuela-Avancemos/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9717xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9717xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9717
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4301</gsId>
+<name>Evergreen Lutheran School</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>8680 Evergreen Avenue, Detroit, MI 48228</address>
+<phone>(313) 584-0450</phone>
+<fax/>
+<website/>
+<ncesId>00642401</ncesId>
+<lat>42.35655</lat>
+<lon>-83.235886</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4301-Evergreen-Lutheran-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi4301xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi4301xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4301
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9718</gsId>
+<name>Experiencia Preparatory Academy</name>
+<type>charter</type>
+<gradeRange>K-10</gradeRange>
+<enrollment>356</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>1049</districtId>
+<district>Experiencia Preparatory Academy</district>
+<districtNCESId/>
+<address>950 Selden St, Detroit, MI 48201</address>
+<phone>(313) 262-6861</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.34653</lat>
+<lon>-83.06829</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9718-Experiencia-Preparatory-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi9718xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi9718xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9718
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5430</gsId>
+<name>Fairview Christian School And</name>
+<type>private</type>
+<gradeRange>PK-7</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>P.O. Box 05769, Detroit, MI 48205</address>
+<phone>(313) 839-4400</phone>
+<fax/>
+<website/>
+<ncesId>K9303145</ncesId>
+<lat>42.4346</lat>
+<lon>-82.9801</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5430-Fairview-Christian-School-And/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi5430xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi5430xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/5430
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5141</gsId>
+<name>Field Moses</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>97</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>1100 Sheridan Street, Detroit, MI 48214</address>
+<phone>(313) 866-5790</phone>
+<fax>(313) 866-9896</fax>
+<website>http://detroitk12.org/schools/field/</website>
+<ncesId>261200001299</ncesId>
+<lat>42.351833</lat>
+<lon>-83.00159</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5141-Field-Moses/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi5141xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi5141xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5141
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5240</gsId>
+<name>Fisher Magnet Lower Academy</name>
+<type>public</type>
+<gradeRange>PK-4 x ungraded</gradeRange>
+<enrollment>745</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>15510 East State Fair St, Detroit, MI 48205</address>
+<phone>(313) 642-4854</phone>
+<fax>(313) 642-4855</fax>
+<website>http://detroitk12.org/schools/Heilmann</website>
+<ncesId>261200001611</ncesId>
+<lat>42.442223</lat>
+<lon>-82.96172</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5240-Fisher-Magnet-Lower-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi5240xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi5240xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5240
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5620</gsId>
+<name>Fisher Magnet Upper Academy</name>
+<type>public</type>
+<gradeRange>5-8</gradeRange>
+<enrollment>559</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>15491 Maddelein Street, Detroit, MI 48205</address>
+<phone>(313) 866-7233</phone>
+<fax>(313) 866-7329</fax>
+<website>http://detroitk12.org/schools/HeilmannMS</website>
+<ncesId>261200001679</ncesId>
+<lat>42.436413</lat>
+<lon>-82.96199</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5620-Fisher-Magnet-Upper-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi5620xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi5620xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5620
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6213</gsId>
+<name>Flagship Charter Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>683</enrollment>
+<gsRating>6</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>927</districtId>
+<district>Flagship Charter Academy</district>
+<districtNCESId>2600945</districtNCESId>
+<address>13661 Wisconsin Street, Detroit, MI 48238</address>
+<phone>(313) 933-7933</phone>
+<fax>(313) 933-9061</fax>
+<website/>
+<ncesId>260094507818</ncesId>
+<lat>42.38789</lat>
+<lon>-83.15608</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6213-Flagship-Charter-Academy/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi6213xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi6213xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6213
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1129</gsId>
+<name>Ford High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>525</enrollment>
+<gsRating>1</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>20000 Evergreen Road, Detroit, MI 48219</address>
+<phone>(313) 494-7567</phone>
+<fax>(313) 494-7565</fax>
+<website>http://detroitk12.org/schools/FordH</website>
+<ncesId>261200004734</ncesId>
+<lat>42.4385</lat>
+<lon>-83.23919</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1129-Ford-High-School/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1129xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1129xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1129
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1276</gsId>
+<name>Foreign Language Immersion And Cultural Studies</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>726</enrollment>
+<gsRating>5</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>6501 Outer Drive, Detroit, MI 48235</address>
+<phone>(313) 651-2400</phone>
+<fax>(313) 651-2401</fax>
+<website>http://detroitk12.org/schools/ForeignLang</website>
+<ncesId>261200007755</ncesId>
+<lat>42.417843</lat>
+<lon>-83.1954</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1276-Foreign-Language-Immersion-And-Cultural-Studies/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi1276xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi1276xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1276
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5451</gsId>
+<name>Fountain of Life Child Dev Center</name>
+<type>private</type>
+<gradeRange>PK-1</gradeRange>
+<enrollment>22</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<address>10600 Puritan, Detroit, MI 48238</address>
+<phone>(313) 340-1860</phone>
+<fax/>
+<website/>
+<ncesId>A0104368</ncesId>
+<lat>42.4096</lat>
+<lon>-83.1666</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5451-Fountain-Of-Life-Child-Dev-Center/?s_cigsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxi5451xs_cigsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxi5451xs_cigsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/5451
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4319</gsId>
+<name>Friends School In Detroit</name>
+<type>private</type>
+<gradeRange>PK-8</gradeRange>
+<enrollment>110</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>1100 Saint Aubin St, Detroit, MI 48207</address>
+<phone>(313) 259-6722</phone>
+<fax>(313) 259-8066</fax>
+<website>www.friendsschool.org</website>
+<ncesId>00642671</ncesId>
+<lat>42.340115</lat>
+<lon>-83.03039</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4319-Friends-School-In-Detroit/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4319xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4319xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4319
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1114</gsId>
+<name>Gardner Elementary School</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>252</enrollment>
+<gsRating>3</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>6528 Mansfield Street, Detroit, MI 48228</address>
+<phone>(313) 581-4615</phone>
+<fax>(313) 581-3713</fax>
+<website>http://detroitk12.org/schools/Gardner</website>
+<ncesId>261200004717</ncesId>
+<lat>42.33922</lat>
+<lon>-83.20149</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1114-Gardner-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1114xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1114xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1114
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1277</gsId>
+<name>Garvey Academy</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>430</enrollment>
+<gsRating>1</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2301 Van Dyke Street, Detroit, MI 48214</address>
+<phone>(313) 866-7400</phone>
+<fax>(313) 866-7382</fax>
+<website>http://detroitk12.org/schools/school/313/</website>
+<ncesId>261200007756</ncesId>
+<lat>42.35956</lat>
+<lon>-83.00076</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1277-Garvey-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1277xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1277xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1277
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1104</gsId>
+<name>Gee Edmonson Academy</name>
+<type>charter</type>
+<gradeRange>PK-8</gradeRange>
+<enrollment>279</enrollment>
+<gsRating>4</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>966</districtId>
+<district>Gee Edmonson Academy</district>
+<districtNCESId/>
+<address>1300 West Canfield St, Detroit, MI 48201</address>
+<phone>(313) 228-0910</phone>
+<fax>(313) 447-2533</fax>
+<website>http://edmonson.gee-edu.com/</website>
+<ncesId>260099104705</ncesId>
+<lat>42.34883</lat>
+<lon>-83.074165</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1104-Gee-Edmonson-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1104xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1104xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1104
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1237</gsId>
+<name>Gee White Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>439</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>981</districtId>
+<district>Gee White Academy</district>
+<districtNCESId/>
+<address>5161 Charles Street, Detroit, MI 48212</address>
+<phone>(734) 369-9500</phone>
+<fax/>
+<website/>
+<ncesId>260099904858</ncesId>
+<lat>42.41173</lat>
+<lon>-83.04999</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1237-Gee-White-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1237xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1237xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1237
+</schoolStatsLink>
+</school>
+<school>
+<gsId>3950</gsId>
+<name>Genesis Catholic Elementary School</name>
+<type>private</type>
+<gradeRange>PK-8</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>20045 Joann, Detroit, MI 48205</address>
+<phone>(313) 839-2330</phone>
+<fax/>
+<website/>
+<ncesId>00636861</ncesId>
+<lat>42.4444</lat>
+<lon>-82.9905</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/3950-Genesis-Catholic-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx3950xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx3950xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/3950
+</schoolStatsLink>
+</school>
+<school>
+<gsId>245</gsId>
+<name>George Crockett Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>327</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>175</districtId>
+<district>George Crockett Academy</district>
+<districtNCESId>2600224</districtNCESId>
+<address>4851 14th Street, Detroit, MI 48208</address>
+<phone>(313) 896-6078</phone>
+<fax>(313) 896-1363</fax>
+<website>http://www.crockettacademy.com</website>
+<ncesId>260022401194</ncesId>
+<lat>42.35002</lat>
+<lon>-83.087135</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/245-George-Crockett-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx245xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx245xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/245
+</schoolStatsLink>
+</school>
+<school>
+<gsId>3929</gsId>
+<name>Gesu School</name>
+<type>private</type>
+<gradeRange>PK-8</gradeRange>
+<enrollment>195</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>17139 Oak Drive, Detroit, MI 48221</address>
+<phone>(313) 863-4677</phone>
+<fax>(313) 862-4395</fax>
+<website>http://gesuschool.udmercy.edu/</website>
+<ncesId>00636442</ncesId>
+<lat>42.41811</lat>
+<lon>-83.13828</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/3929-Gesu-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx3929xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx3929xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/3929
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5488</gsId>
+<name>Gods Way Academy</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>265 East Baltimore, Detroit, MI 48202</address>
+<phone>(313) 871-7461</phone>
+<fax/>
+<website/>
+<ncesId>BB021220</ncesId>
+<lat>42.3697</lat>
+<lon>-83.0687</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5488-Gods-Way-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx5488xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx5488xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/5488
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1020</gsId>
+<name>Golightly Education Center</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>395</enrollment>
+<gsRating>4</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>5536 Saint Antoine Street, Detroit, MI 48202</address>
+<phone>(313) 494-2538</phone>
+<fax>(313) 873-3160</fax>
+<website>http://detroitk12.org/schools/school/592/</website>
+<ncesId>261200000085</ncesId>
+<lat>42.36489</lat>
+<lon>-83.05897</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1020-Golightly-Education-Center/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1020xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1020xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1020
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1115</gsId>
+<name>Gompers Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>836</enrollment>
+<gsRating>5</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>14450 Burt Road, Detroit, MI 48223</address>
+<phone>(313) 494-7495</phone>
+<fax>(313) 494-7636</fax>
+<website>http://detroitk12.org/schools/school/135/</website>
+<ncesId>261200004719</ncesId>
+<lat>42.392155</lat>
+<lon>-83.24639</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1115-Gompers-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1115xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1115xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1115
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4849</gsId>
+<name>Grandmont Rosedale Park Chr. School</name>
+<type>private</type>
+<gradeRange>K-6</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>15350 Southfield Fwy, Detroit, MI 48223</address>
+<phone>(313) 835-5640</phone>
+<fax/>
+<website/>
+<ncesId>BB962775</ncesId>
+<lat>42.402027</lat>
+<lon>-83.2179</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4849-Grandmont-Rosedale-Park-Chr.-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4849xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4849xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4849
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4352</gsId>
+<name>Greenfield Peace Lutheran School</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>7000 West Outer Dr, Detroit, MI 48235</address>
+<phone>(313) 838-6588</phone>
+<fax/>
+<website/>
+<ncesId>00643143</ncesId>
+<lat>42.4197</lat>
+<lon>-83.1995</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4352-Greenfield-Peace-Lutheran-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4352xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4352xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4352
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1118</gsId>
+<name>Greenfield Union Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>329</enrollment>
+<gsRating>4</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>420 West Seven Mile Road, Detroit, MI 48203</address>
+<phone>(313) 866-2999</phone>
+<fax>(313) 866-2633</fax>
+<website>http://detroitk12.org/schools/school/140/</website>
+<ncesId>261200004722</ncesId>
+<lat>42.432228</lat>
+<lon>-83.107635</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1118-Greenfield-Union-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1118xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1118xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1118
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1127</gsId>
+<name>Harms Elementary School</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>462</enrollment>
+<gsRating>3</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2400 Central Avenue, Detroit, MI 48209</address>
+<phone>(313) 849-3492</phone>
+<fax>(313) 849-4690</fax>
+<website>http://detroitk12.org/schools/</website>
+<ncesId>261200004732</ncesId>
+<lat>42.31435</lat>
+<lon>-83.12466</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1127-Harms-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1127xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1127xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1127
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9663</gsId>
+<name>
+Hazel Park Empowerment Ser Metro Alternative School
+</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>58</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>435</districtId>
+<district>Hazel Park, School District Of The City Of</district>
+<districtNCESId>2618030</districtNCESId>
+<address>9215 Michigan Ave, Detroit, MI 48210</address>
+<phone>(248) 658-5600</phone>
+<fax>(248) 544-5447</fax>
+<website/>
+<ncesId>261803008385</ncesId>
+<lat>42.32847</lat>
+<lon>-83.15306</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9663-Hazel-Park-Empowerment-Ser-Metro-Alternative-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9663xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9663xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9663
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9034</gsId>
+<name>Henderson Academy</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>781</enrollment>
+<gsRating>1</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>16101 West Chicago Avenue, Detroit, MI 48228</address>
+<phone>(313) 852-0512</phone>
+<fax>(313) 852-0523</fax>
+<website/>
+<ncesId>261200008041</ncesId>
+<lat>42.36526</lat>
+<lon>-83.203766</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9034-Henderson-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9034xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9034xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9034
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9043</gsId>
+<name>Henry Ford Academy: School for Creative Studies</name>
+<type>charter</type>
+<gradeRange>6-12</gradeRange>
+<enrollment>846</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>946</districtId>
+<district>
+Henry Ford Academy: School For Creative Studies (Psad)
+</district>
+<districtNCESId>2600961</districtNCESId>
+<address>485 West Milwaukee St , Detroit, MI 48202</address>
+<phone>(313) 481-4000</phone>
+<fax/>
+<website>www.schoolforcreativestudies.org</website>
+<ncesId>260096108026</ncesId>
+<lat>42.367905</lat>
+<lon>-83.075386</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9043-Henry-Ford-Academy:-School-For-Creative-Studies/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9043xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9043xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9043
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9232</gsId>
+<name>
+Henry Ford Academy:School for Creative Studies-Elementary
+</name>
+<type>charter</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>385</enrollment>
+<gsRating>3</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>946</districtId>
+<district>
+Henry Ford Academy: School For Creative Studies (Psad)
+</district>
+<districtNCESId>2600961</districtNCESId>
+<address>10225 3Rd St, Detroit, MI 48202</address>
+<phone>(313) 826-1159</phone>
+<fax>(313) 731-0400</fax>
+<website/>
+<ncesId>260096108416</ncesId>
+<lat>42.386593</lat>
+<lon>-83.09241</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9232-Henry-Ford-Academy:School-For-Creative-Studies-Elementary/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9232xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9232xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9232
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4692</gsId>
+<name>Herlong Cathedral School</name>
+<type>private</type>
+<gradeRange>PK-8</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>4800 Woodward Avenue, Detroit, MI 48201</address>
+<phone>(313) 831-5005</phone>
+<fax/>
+<website/>
+<ncesId>A9103596</ncesId>
+<lat>42.355778</lat>
+<lon>-83.06365</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4692-Herlong-Cathedral-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4692xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4692xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4692
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1045</gsId>
+<name>Holmes A.L. Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>513</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>8950 Crane Street, Detroit, MI 48213</address>
+<phone>(313) 866-5644</phone>
+<fax>(313) 866-2299</fax>
+<website>http://detroitk12.org/schools/school/165/</website>
+<ncesId>261200004637</ncesId>
+<lat>42.394566</lat>
+<lon>-83.01489</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1045-Holmes-A.L.--Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1045xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1045xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1045
+</schoolStatsLink>
+</school>
+<school>
+<gsId>3925</gsId>
+<name>Holy Redeemer Elementary School</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>1711 Junction St, Detroit, MI 48209</address>
+<phone>(313) 841-5230</phone>
+<fax/>
+<website/>
+<ncesId>00636351</ncesId>
+<lat>42.3171</lat>
+<lon>-83.1013</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/3925-Holy-Redeemer-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx3925xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx3925xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/3925
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4044</gsId>
+<name>Holy Redeemer Grade School</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>1711 Junction Street, Detroit, MI 48209</address>
+<phone>(313) 841-5230</phone>
+<fax/>
+<website/>
+<ncesId>00638202</ncesId>
+<lat>42.3168</lat>
+<lon>-83.101105</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4044-Holy-Redeemer-Grade-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4044xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4044xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4044
+</schoolStatsLink>
+</school>
+<school>
+<gsId>250</gsId>
+<name>Hope Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>688</enrollment>
+<gsRating>4</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>180</districtId>
+<district>Hope Academy</district>
+<districtNCESId>2600229</districtNCESId>
+<address>12121 Broadstreet Avenue, Detroit, MI 48204</address>
+<phone>(313) 934-0054</phone>
+<fax>(313) 934-0074</fax>
+<website/>
+<ncesId>260022901199</ncesId>
+<lat>42.379326</lat>
+<lon>-83.13533</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/250-Hope-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx250xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx250xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/250
+</schoolStatsLink>
+</school>
+<school>
+<gsId>264</gsId>
+<name>Hope of Detroit Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>518</enrollment>
+<gsRating>5</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>194</districtId>
+<district>Hope Of Detroit Academy</district>
+<districtNCESId>2600243</districtNCESId>
+<address>4443 North Campbell Street, Detroit, MI 48210</address>
+<phone>(313) 897-8720</phone>
+<fax>(313) 897-5142</fax>
+<website>http://www.leonagroup.com/hope</website>
+<ncesId>260024301213</ncesId>
+<lat>42.334927</lat>
+<lon>-83.116745</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/264-Hope-Of-Detroit-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx264xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx264xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/264
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1139</gsId>
+<name>Hutchinson Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>502</enrollment>
+<gsRating>1</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2600 Garland Street, Detroit, MI 48214</address>
+<phone>(313) 866-4169</phone>
+<fax>(313) 866-4193</fax>
+<website>http://detroitk12.org/schools/Hutchinson</website>
+<ncesId>261200004744</ncesId>
+<lat>42.368847</lat>
+<lon>-82.98321</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1139-Hutchinson-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1139xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1139xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1139
+</schoolStatsLink>
+</school>
+<school>
+<gsId>13320</gsId>
+<name>International Academy Of Detroit</name>
+<type>charter</type>
+<gradeRange>K-12</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>7000 Outer Drive, Detroit, MI 48235</address>
+<phone>(810) 908-4466</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.420086</lat>
+<lon>-83.200775</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/13320-International-Academy-Of-Detroit/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx13320xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx13320xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/13320
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8602</gsId>
+<name>Iskcon School</name>
+<type>private</type>
+<gradeRange>K-8</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>383 Lenox Avenue, Detroit, MI 48215</address>
+<phone>(313) 824-6000</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.36119</lat>
+<lon>-82.946396</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8602-Iskcon-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx8602xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx8602xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/8602
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4649</gsId>
+<name>Jackson Randolph School</name>
+<type>private</type>
+<gradeRange>PK-6</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>14501 W McNichols Rd, Detroit, MI 48235</address>
+<phone>(313) 270-2679</phone>
+<fax/>
+<website/>
+<ncesId>A9103500</ncesId>
+<lat>42.4164</lat>
+<lon>-83.1885</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4649-Jackson-Randolph-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4649xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4649xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4649
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9171</gsId>
+<name>Jalen Rose Leadership Academy</name>
+<type>charter</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>414</enrollment>
+<gsRating>2</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>997</districtId>
+<district>Jalen Rose Leadership Academy</district>
+<districtNCESId/>
+<address>15000 Trojan St., Detroit, MI 48235</address>
+<phone>(313) 397-3333</phone>
+<fax>(313) 397-4155</fax>
+<website>www.jrladetroit.com</website>
+<ncesId>260099308233</ncesId>
+<lat>42.44186</lat>
+<lon>-83.19477</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9171-Jalen-Rose-Leadership-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9171xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9171xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9171
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6223</gsId>
+<name>Jerry L White Center High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>227</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>14804 McNichols Road, Detroit, MI 48235</address>
+<phone>(313) 416-4200</phone>
+<fax>(313) 416-4200</fax>
+<website>http://detroitk12.org/schools/school/504/</website>
+<ncesId>261200001920</ncesId>
+<lat>42.416348</lat>
+<lon>-83.19208</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6223-Jerry-L-White-Center-High-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx6223xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx6223xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6223
+</schoolStatsLink>
+</school>
+<school>
+<gsId>265</gsId>
+<name>Joy Preparatory Academy</name>
+<type>charter</type>
+<gradeRange>K-2</gradeRange>
+<enrollment>120</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>195</districtId>
+<district>Joy Preparatory Academy</district>
+<districtNCESId>2600244</districtNCESId>
+<address>1129 Oakman Boulevard, Detroit, MI 48238</address>
+<phone>(313) 867-7828</phone>
+<fax>(313) 867-7831</fax>
+<website>http://leonagroup.com</website>
+<ncesId>260024401214</ncesId>
+<lat>42.4008</lat>
+<lon>-83.11754</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/265-Joy-Preparatory-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx265xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx265xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/265
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5566</gsId>
+<name>Joy Preparatory Academy</name>
+<type>charter</type>
+<gradeRange>3-8</gradeRange>
+<enrollment>205</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>195</districtId>
+<district>Joy Preparatory Academy</district>
+<districtNCESId>2600244</districtNCESId>
+<address>15055 Dexter Avenue, Detroit, MI 48238</address>
+<phone>(313) 340-0023</phone>
+<fax>(313) 340-0678</fax>
+<website/>
+<ncesId>260024401663</ncesId>
+<lat>42.40106</lat>
+<lon>-83.13552</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5566-Joy-Preparatory-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx5566xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx5566xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5566
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6224</gsId>
+<name>Keidan Special Education School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>143</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>4441 Collingwood Street, Detroit, MI 48204</address>
+<phone>(313) 873-9400</phone>
+<fax>(313) 873-9352</fax>
+<website/>
+<ncesId>261200001922</ncesId>
+<lat>42.373913</lat>
+<lon>-83.12816</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6224-Keidan-Special-Education-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx6224xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx6224xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6224
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6225</gsId>
+<name>Kettering West Wing</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>106</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>5020 Cadieux Road, Detroit, MI 48224</address>
+<phone>(313) 347-7280</phone>
+<fax>(313) 852-3454</fax>
+<website/>
+<ncesId>261200001703</ncesId>
+<lat>42.40737</lat>
+<lon>-82.929695</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6225-Kettering-West-Wing/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx6225xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx6225xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6225
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1102</gsId>
+<name>King High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>1530</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>3200 East Lafayette Street, Detroit, MI 48207</address>
+<phone>(313) 494-7373</phone>
+<fax>(313) 494-7359</fax>
+<website>http://detroitk12.org/schools/KingHS</website>
+<ncesId>261200004703</ncesId>
+<lat>42.343765</lat>
+<lon>-83.01443</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1102-King-High-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1102xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1102xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1102
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1149</gsId>
+<name>King John R. Academic And Performing Arts Academy</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>915</enrollment>
+<gsRating>4</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>15850 Strathmoor Street, Detroit, MI 48227</address>
+<phone>(313) 866-9600</phone>
+<fax>(313) 866-9626</fax>
+<website>http://detroitk12.org/schools/KingES</website>
+<ncesId>261200004756</ncesId>
+<lat>42.40819</lat>
+<lon>-83.18679</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1149-King-John-R.-Academic-And-Performing-Arts-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1149xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1149xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1149
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1163</gsId>
+<name>Law Elementary School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>510</enrollment>
+<gsRating>1</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>19411 Cliff Street, Detroit, MI 48234</address>
+<phone>(313) 866-3400</phone>
+<fax>(313) 866-6200</fax>
+<website>http://detroitk12.org/schools/school/211/</website>
+<ncesId>261200004773</ncesId>
+<lat>42.437492</lat>
+<lon>-83.028694</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1163-Law-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1163xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1163xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1163
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8647</gsId>
+<name>Learning Links Academy</name>
+<type>private</type>
+<gradeRange>PK-1 x ungraded</gradeRange>
+<enrollment>30</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>19363 James Couzens, Detroit, MI 48235</address>
+<phone>(313) 341-2506</phone>
+<fax/>
+<website>www.learninglinksacademy.org</website>
+<ncesId/>
+<lat>42.433746</lat>
+<lon>-83.19029</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8647-Learning-Links-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx8647xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx8647xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/8647
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9047</gsId>
+<name>Legacy Charter Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>731</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>950</districtId>
+<district>Legacy Charter Academy</district>
+<districtNCESId>2600979</districtNCESId>
+<address>4900 East Hildale Street, Detroit, MI 48234</address>
+<phone>(877) 223-6402</phone>
+<fax>(616) 575-6801</fax>
+<website/>
+<ncesId>260097908133</ncesId>
+<lat>42.42879</lat>
+<lon>-83.05407</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9047-Legacy-Charter-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9047xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9047xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9047
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9048</gsId>
+<name>Lincoln-King Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>620</enrollment>
+<gsRating>1</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>962</districtId>
+<district>Washington-Parks Academy</district>
+<districtNCESId>2600958</districtNCESId>
+<address>13436 Grove Street, Detroit, MI 48235</address>
+<phone>(313) 892-1860</phone>
+<fax/>
+<website>
+http://www.cornerstonecharters.org/lincoln-king-academy/
+</website>
+<ncesId>260095808009</ncesId>
+<lat>42.41399</lat>
+<lon>-83.178276</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9048-Lincoln-King-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9048xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9048xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9048
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5502</gsId>
+<name>Look Whos Learning CCC</name>
+<type>private</type>
+<gradeRange>K</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>8501 Puritan Street, Detroit, MI 48238</address>
+<phone>(313) 864-5464</phone>
+<fax/>
+<website/>
+<ncesId>BB021260</ncesId>
+<lat>42.4098</lat>
+<lon>-83.1546</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5502-Look-Whos-Learning-CCC/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx5502xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx5502xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/5502
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5353</gsId>
+<name>Louisiana Homes School</name>
+<type>private</type>
+<gradeRange>6-11</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>1946 Webb, Detroit, MI 48206</address>
+<phone>(313) 868-8724</phone>
+<fax/>
+<website/>
+<ncesId>A0104642</ncesId>
+<lat>42.38607</lat>
+<lon>-83.107254</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5353-Louisiana-Homes-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx5353xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx5353xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/5353
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4767</gsId>
+<name>Loyola High School</name>
+<type>private</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>176</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>15325 Pinehurst Street, Detroit, MI 48238</address>
+<phone>(313) 861-2407</phone>
+<fax>(313) 861-4718</fax>
+<website/>
+<ncesId>A9502346</ncesId>
+<lat>42.402805</lat>
+<lon>-83.166275</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4767-Loyola-High-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4767xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4767xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4767
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1215</gsId>
+<name>Ludington Magnet Middle School</name>
+<type>public</type>
+<gradeRange>5-8</gradeRange>
+<enrollment>452</enrollment>
+<gsRating>4</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>19051 Berg Road, Detroit, MI 48219</address>
+<phone>(313) 494-7549</phone>
+<fax>(313) 494-7707</fax>
+<website>http://detroitk12.org/schools/Ludington</website>
+<ncesId>261200004834</ncesId>
+<lat>42.428192</lat>
+<lon>-83.26784</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1215-Ludington-Magnet-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1215xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1215xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1215
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1159</gsId>
+<name>Macdowell Elementary School</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>372</enrollment>
+<gsRating>4</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>989</districtId>
+<district>
+International Preparatory Academy - Macdowell Campus
+</district>
+<districtNCESId/>
+<address>4201 Outer Drive, Detroit, MI 48221</address>
+<phone>(313) 494-8141</phone>
+<fax>(313) 494-8142</fax>
+<website>http:// http://schools.detroitk12.org/MacDowell</website>
+<ncesId>261200004769</ncesId>
+<lat>42.43391</lat>
+<lon>-83.165855</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1159-Macdowell-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1159xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1159xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1159
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9237</gsId>
+<name>Mackenzie Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>958</enrollment>
+<gsRating>1</gsRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>10147 W Chicago, Detroit, MI 48204</address>
+<phone>(313) 416-6400</phone>
+<fax>(313) 873-0755</fax>
+<website/>
+<ncesId>261200008222</ncesId>
+<lat>42.365417</lat>
+<lon>-83.1605</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9237-Mackenzie-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9237xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9237xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9237
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9081</gsId>
+<name>Madison-Carver Academy</name>
+<type>charter</type>
+<gradeRange>K-7</gradeRange>
+<enrollment>610</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>993</districtId>
+<district>Madison-Carver Academy</district>
+<districtNCESId/>
+<address>19900 McIntyre Street, Detroit, MI 48219</address>
+<phone>(313) 486-4626</phone>
+<fax/>
+<website>
+http://www.cornerstonecharters.org/madison-carver-academy/
+</website>
+<ncesId>260100808372</ncesId>
+<lat>42.43693</lat>
+<lon>-83.26294</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9081-Madison-Carver-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9081xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9081xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9081
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1162</gsId>
+<name>Mann Elementary School</name>
+<type>public</type>
+<gradeRange>PK-5</gradeRange>
+<enrollment>429</enrollment>
+<gsRating>5</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>19625 Elmira St, Detroit, MI 48228</address>
+<phone>(313) 866-9580</phone>
+<fax>(313) 866-9587</fax>
+<website>http://detroitk12.org/schools/</website>
+<ncesId>261200004772</ncesId>
+<lat>42.369495</lat>
+<lon>-83.23437</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1162-Mann-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1162xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1162xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1162
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1164</gsId>
+<name>Mark Twain Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>227</enrollment>
+<gsRating>6</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>12800 Visger Street, Detroit, MI 48217</address>
+<phone>(313) 386-5530</phone>
+<fax>(313) 386-1276</fax>
+<website>http://detroitk12.org/schools/school/235/</website>
+<ncesId>261200004774</ncesId>
+<lat>42.26969</lat>
+<lon>-83.16259</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1164-Mark-Twain-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1164xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1164xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1164
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1165</gsId>
+<name>Marquette Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>765</enrollment>
+<gsRating>3</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>6145 Canyon Street, Detroit, MI 48236</address>
+<phone>(313) 417-9360</phone>
+<fax>(313) 881-3398</fax>
+<website>http://detroitk12.org/schools/school/236/</website>
+<ncesId>261200004775</ncesId>
+<lat>42.41983</lat>
+<lon>-82.92164</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1165-Marquette-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1165xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1165xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1165
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1092</gsId>
+<name>Marshall Thurgood Elementary School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>470</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>15531 Linwood Street, Detroit, MI 48238</address>
+<phone>(313) 494-8820</phone>
+<fax>(313) 494-7294</fax>
+<website>http://detroitk12.org/schools/MarshallT</website>
+<ncesId>261200004691</ncesId>
+<lat>42.405983</lat>
+<lon>-83.12819</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1092-Marshall-Thurgood-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1092xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1092xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1092
+</schoolStatsLink>
+</school>
+<school>
+<gsId>152</gsId>
+<name>Martin Luther King Jr. Education Center Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>294</enrollment>
+<gsRating>7</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>83</districtId>
+<district>Martin Luther King, Jr. Education Center Academy</district>
+<districtNCESId>2600131</districtNCESId>
+<address>16827 Appoline Street, Detroit, MI 48235</address>
+<phone>(313) 341-4944</phone>
+<fax>(313) 341-7014</fax>
+<website>http://www.mlkeca.org</website>
+<ncesId>260013100781</ncesId>
+<lat>42.414623</lat>
+<lon>-83.171265</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/152-Martin-Luther-King-Jr.-Education-Center-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx152xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx152xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/152
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6182</gsId>
+<name>Marvin L. Winans Academy of Performing Arts Elem.</name>
+<type>charter</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>540</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>120</districtId>
+<district>Marvin L. Winans Academy Of Performing Arts</district>
+<districtNCESId>2600169</districtNCESId>
+<address>9740 Mckinney Street, Detroit, MI 48224</address>
+<phone>(313) 640-4610</phone>
+<fax>(313) 640-4611</fax>
+<website>http://www.winans.spfs.k12.mi.us/index.php</website>
+<ncesId>260016901951</ncesId>
+<lat>42.413387</lat>
+<lon>-82.94835</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6182-Marvin-L.-Winans-Academy-Of-Performing-Arts-Elem./?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx6182xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx6182xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6182
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1120</gsId>
+<name>Mary Mcleod Bethune Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>618</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>8145 Puritan Avenue, Detroit, MI 48238</address>
+<phone>(313) 873-9460</phone>
+<fax>(313) 494-3829</fax>
+<website>http://detroitk12.org/schools/Guest</website>
+<ncesId>261200004724</ncesId>
+<lat>42.40978</lat>
+<lon>-83.151474</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1120-Mary-Mcleod-Bethune-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1120xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1120xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1120
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1168</gsId>
+<name>Mason Elementary School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>567</enrollment>
+<gsRating>4</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>19955 Fenelon Street, Detroit, MI 48234</address>
+<phone>(313) 866-3600</phone>
+<fax>(313) 866-3609</fax>
+<website>http://detroitk12.org/schools/school/241/</website>
+<ncesId>261200004778</ncesId>
+<lat>42.441296</lat>
+<lon>-83.05374</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1168-Mason-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1168xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1168xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1168
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1169</gsId>
+<name>Maybury Elementary School</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>301</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>4410 Porter Street, Detroit, MI 48209</address>
+<phone>(313) 849-2014</phone>
+<fax>(313) 849-2016</fax>
+<website>http://detroitk12.org/schools/school/243/</website>
+<ncesId>261200004779</ncesId>
+<lat>42.316372</lat>
+<lon>-83.093796</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1169-Maybury-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1169xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1169xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1169
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9019</gsId>
+<name>Medicine And Community Health Academy At Cody</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>432</enrollment>
+<gsRating>2</gsRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>18445 Cathedral Street, Detroit, MI 48228</address>
+<phone>(313) 866-9200</phone>
+<fax>(313) 866-9266</fax>
+<website/>
+<ncesId>261200007984</ncesId>
+<lat>42.361248</lat>
+<lon>-83.220764</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9019-Medicine-And-Community-Health-Academy-At-Cody/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9019xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9019xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9019
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5194</gsId>
+<name>Michigan Technical Academy Elementary</name>
+<type>charter</type>
+<gradeRange>K-4</gradeRange>
+<enrollment>566</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>80</districtId>
+<district>Michigan Technical Academy</district>
+<districtNCESId>2600128</districtNCESId>
+<address>19940 Mansfield Street, Detroit, MI 48235</address>
+<phone>(313) 272-1649</phone>
+<fax>(313) 272-1849</fax>
+<website>http://www.mtacademy.us</website>
+<ncesId>260012801506</ncesId>
+<lat>42.437996</lat>
+<lon>-83.20656</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5194-Michigan-Technical-Academy-Elementary/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx5194xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx5194xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5194
+</schoolStatsLink>
+</school>
+<school>
+<gsId>3928</gsId>
+<name>Most Holy Trinity School</name>
+<type>private</type>
+<gradeRange>PK-8</gradeRange>
+<enrollment>177</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>1229 Labrosse St, Detroit, MI 48226</address>
+<phone>(313) 961-8855</phone>
+<fax>(313) 961-5797</fax>
+<website>mostholytrinityschool.org</website>
+<ncesId>00636431</ncesId>
+<lat>42.33014</lat>
+<lon>-83.06156</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/3928-Most-Holy-Trinity-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx3928xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx3928xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/3928
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4884</gsId>
+<name>Muhammad University Islam</name>
+<type>private</type>
+<gradeRange>n/a</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>14880 Wyoming Street, Detroit, MI 48238</address>
+<phone>(313) 931-0802</phone>
+<fax/>
+<website/>
+<ncesId>A9702028</ncesId>
+<lat>42.399174</lat>
+<lon>-83.15911</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4884-Muhammad-University-Islam/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4884xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4884xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4884
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1177</gsId>
+<name>Mumford High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>877</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>17525 Wyoming Avenue, Detroit, MI 48221</address>
+<phone>(313) 416-7064</phone>
+<fax>(313) 416-7567</fax>
+<website>http://detroitk12.org/schools/Mumford</website>
+<ncesId>261200004793</ncesId>
+<lat>42.42141</lat>
+<lon>-83.163185</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1177-Mumford-High-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1177xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1177xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1177
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9236</gsId>
+<name>Munger Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>801</enrollment>
+<gsRating>3</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>5525 Martin St, Detroit, MI 48216</address>
+<phone>(313) 873-0655</phone>
+<fax>(313) 873-7985</fax>
+<website/>
+<ncesId>261200008262</ncesId>
+<lat>42.33796</lat>
+<lon>-83.13248</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9236-Munger-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9236xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9236xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9236
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1179</gsId>
+<name>Murphy Performance Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>300</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>986</districtId>
+<district>Michigan Educational Choice Center</district>
+<districtNCESId/>
+<address>23901 Fenkell Avenue, Detroit, MI 48223</address>
+<phone>(313) 494-7585</phone>
+<fax>(313) 494-7550</fax>
+<website>http://detroitk12.org/schools/Murphy</website>
+<ncesId>261200004795</ncesId>
+<lat>42.399014</lat>
+<lon>-83.274506</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1179-Murphy-Performance-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1179xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1179xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1179
+</schoolStatsLink>
+</school>
+<school>
+<gsId>146</gsId>
+<name>Nataki Talibah Schoolhouse Of Detroit</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>269</enrollment>
+<gsRating>5</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>78</districtId>
+<district>Nataki Talibah Schoolhouse Of Detroit</district>
+<districtNCESId>2600126</districtNCESId>
+<address>19176 Northrop Street, Detroit, MI 48219</address>
+<phone>(313) 531-3720</phone>
+<fax>(313) 531-3779</fax>
+<website>http://www.natakitalibah.com</website>
+<ncesId>260012600776</ncesId>
+<lat>42.430035</lat>
+<lon>-83.261375</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/146-Nataki-Talibah-Schoolhouse-Of-Detroit/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx146xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx146xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/146
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1180</gsId>
+<name>Neinas Elementary School</name>
+<type>public</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>283</enrollment>
+<gsRating>4</gsRating>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>6021 McMillan Street, Detroit, MI 48209</address>
+<phone>(313) 849-3701</phone>
+<fax>(313) 849-3701</fax>
+<website>http://detroitk12.org/schools/school/270/</website>
+<ncesId>261200004796</ncesId>
+<lat>42.31719</lat>
+<lon>-83.10702</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1180-Neinas-Elementary-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1180xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1180xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1180
+</schoolStatsLink>
+</school>
+<school>
+<gsId>8611</gsId>
+<name>New Center Academy</name>
+<type>private</type>
+<gradeRange>n/a</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>141 West Boston Boulevard, Detroit, MI 48202</address>
+<phone>(313) 883-1234</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.386326</lat>
+<lon>-83.08721</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/8611-New-Center-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx8611xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx8611xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/8611
+</schoolStatsLink>
+</school>
+<school>
+<gsId>13322</gsId>
+<name>New Paradigm College Prep</name>
+<type>charter</type>
+<gradeRange>K-5</gradeRange>
+<city>Detroit</city>
+<state>MI</state>
+<address>2450 South Beatrice Street, Detroit, MI 48217</address>
+<phone>(313) 852-1500</phone>
+<fax/>
+<website/>
+<ncesId/>
+<lat>42.269463</lat>
+<lon>-83.153725</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/13322-New-Paradigm-College-Prep/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx13322xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx13322xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/13322
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1252</gsId>
+<name>New Paradigm Glazer Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>191</enrollment>
+<gsRating>5</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>965</districtId>
+<district>New Paradigm Glazer Academy</district>
+<districtNCESId/>
+<address>2001 La Belle Street, Detroit, MI 48238</address>
+<phone>(313) 833-1100</phone>
+<fax/>
+<website>http://detroitk12.org/schools/school/143/</website>
+<ncesId>260099404881</ncesId>
+<lat>42.400814</lat>
+<lon>-83.11328</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1252-New-Paradigm-Glazer-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1252xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1252xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1252
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1218</gsId>
+<name>New Paradigm Loving Academy</name>
+<type>charter</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>207</enrollment>
+<gsRating>6</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>979</districtId>
+<district>New Paradigm Loving Academy</district>
+<districtNCESId/>
+<address>1000 Lynn Street, Detroit, MI 48211</address>
+<phone>(313) 833-1100</phone>
+<fax/>
+<website>http://detroitk12.org/schools/school/219/</website>
+<ncesId>260099804837</ncesId>
+<lat>42.39183</lat>
+<lon>-83.07543</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1218-New-Paradigm-Loving-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1218xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1218xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1218
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6258</gsId>
+<name>New Providence Academy</name>
+<type>private</type>
+<gradeRange>PK-5</gradeRange>
+<enrollment>63</enrollment>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>18211 Plymouth, Detroit, MI 48228</address>
+<phone>(313) 837-0814</phone>
+<fax/>
+<website/>
+<ncesId>A0507770</ncesId>
+<lat>42.372204</lat>
+<lon>-83.21789</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6258-New-Providence-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx6258xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx6258xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/6258
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1183</gsId>
+<name>Nichols Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>K-8</gradeRange>
+<enrollment>252</enrollment>
+<gsRating>5</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>3000 Burns Avenue, Detroit, MI 48214</address>
+<phone>(313) 852-0800</phone>
+<fax>(313) 852-0811</fax>
+<website>http://detroitk12.org/schools/school/273/</website>
+<ncesId>261200004799</ncesId>
+<lat>42.36616</lat>
+<lon>-82.998215</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1183-Nichols-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1183xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1183xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1183
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1261</gsId>
+<name>Noble Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>PK-8</gradeRange>
+<enrollment>533</enrollment>
+<gsRating>1</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>8646 Fullerton St, Detroit, MI 48238</address>
+<phone>(313) 873-0377</phone>
+<fax>(313) 873-0398</fax>
+<website>http://detroitk12.org/schools/school/473/</website>
+<ncesId>261200004892</ncesId>
+<lat>42.381386</lat>
+<lon>-83.15527</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1261-Noble-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1261xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1261xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1261
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1184</gsId>
+<name>Nolan Elementary-Middle School</name>
+<type>public</type>
+<gradeRange>PK-8 x ungraded</gradeRange>
+<enrollment>501</enrollment>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>984</districtId>
+<district>Education Achievement Authority Of Michigan</district>
+<districtNCESId/>
+<address>1150 East Lantz St, Detroit, MI 48203</address>
+<phone>(313) 866-7730</phone>
+<fax>(313) 866-7725</fax>
+<website>http://icansoar.org/nolan/</website>
+<ncesId>261200004800</ncesId>
+<lat>42.436684</lat>
+<lon>-83.09178</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1184-Nolan-Elementary-Middle-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1184xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1184xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1184
+</schoolStatsLink>
+</school>
+<school>
+<gsId>1186</gsId>
+<name>Northwestern High School</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>617</enrollment>
+<gsRating>2</gsRating>
+<parentRating>4</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2200 West Grand Boulevard, Detroit, MI 48208</address>
+<phone>(313) 596-0700</phone>
+<fax>(313) 596-0710</fax>
+<website>http://detroitk12.org/schools/Northwestern</website>
+<ncesId>261200004802</ncesId>
+<lat>42.358807</lat>
+<lon>-83.103645</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/1186-Northwestern-High-School/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx1186xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx1186xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/1186
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9712</gsId>
+<name>Northwestern South Wing</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>19</enrollment>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>2200 W. Grand Blvd, Detroit, MI 48208</address>
+<phone>(313) 596-0700</phone>
+<fax>(313) 596-0710</fax>
+<website/>
+<ncesId>261200008368</ncesId>
+<lat>42.358807</lat>
+<lon>-83.103645</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9712-Northwestern-South-Wing/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9712xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9712xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9712
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5509</gsId>
+<name>Oak Grove Day Care Center x Kinder</name>
+<type>private</type>
+<gradeRange>PK-1</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>19801 Cherrylawn St, Detroit, MI 48221</address>
+<phone>(810) 864-3637</phone>
+<fax/>
+<website/>
+<ncesId>BB962715</ncesId>
+<lat>42.43813</lat>
+<lon>-83.15607</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5509-Oak-Grove-Day-Care-Center-x-Kinder/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx5509xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx5509xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/5509
+</schoolStatsLink>
+</school>
+<school>
+<gsId>5564</gsId>
+<name>Oakland International Academy - Elementary</name>
+<type>charter</type>
+<gradeRange>2-4</gradeRange>
+<enrollment>155</enrollment>
+<gsRating>2</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>168</districtId>
+<district>Oakland International Academy</district>
+<districtNCESId>2600217</districtNCESId>
+<address>4001 Miller Street, Detroit, MI 48211</address>
+<phone>(313) 923-0790</phone>
+<fax>(313) 923-0927</fax>
+<website/>
+<ncesId>260021701660</ncesId>
+<lat>42.390614</lat>
+<lon>-83.04106</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/5564-Oakland-International-Academy---Elementary/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx5564xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx5564xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/5564
+</schoolStatsLink>
+</school>
+<school>
+<gsId>238</gsId>
+<name>Oakland International Academy - K-1</name>
+<type>charter</type>
+<gradeRange>K-1</gradeRange>
+<enrollment>101</enrollment>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>168</districtId>
+<district>Oakland International Academy</district>
+<districtNCESId>2600217</districtNCESId>
+<address>6111 Miller Street, Detroit, MI 48211</address>
+<phone>(313) 347-0249</phone>
+<fax>(313) 347-0250</fax>
+<website/>
+<ncesId>260021701166</ncesId>
+<lat>42.39082</lat>
+<lon>-83.03971</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/238-Oakland-International-Academy---K-1/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx238xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx238xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/238
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6232</gsId>
+<name>Oakland International Academy-Middle/High</name>
+<type>charter</type>
+<gradeRange>5-8</gradeRange>
+<enrollment>238</enrollment>
+<gsRating>6</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>168</districtId>
+<district>Oakland International Academy</district>
+<districtNCESId>2600217</districtNCESId>
+<address>8228 Conant Street, Detroit, MI 48211</address>
+<phone>(313) 925-1000</phone>
+<fax>(313) 925-1133</fax>
+<website/>
+<ncesId>260021707766</ncesId>
+<lat>42.39004</lat>
+<lon>-83.04301</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6232-Oakland-International-Academy-Middle-High/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx6232xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx6232xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6232
+</schoolStatsLink>
+</school>
+<school>
+<gsId>263</gsId>
+<name>Old Redford Academy - Elementary</name>
+<type>charter</type>
+<gradeRange>K-5</gradeRange>
+<enrollment>751</enrollment>
+<gsRating>2</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>193</districtId>
+<district>Old Redford Academy</district>
+<districtNCESId>2600242</districtNCESId>
+<address>17195 Redford Street, Detroit, MI 48219</address>
+<phone>(313) 532-7510</phone>
+<fax>(248) 799-2784</fax>
+<website>http://www.oldredford.com</website>
+<ncesId>260024201212</ncesId>
+<lat>42.41567</lat>
+<lon>-83.2602</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/263-Old-Redford-Academy---Elementary/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx263xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx263xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/263
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6115</gsId>
+<name>Old Redford Academy - High</name>
+<type>charter</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>865</enrollment>
+<gsRating>3</gsRating>
+<parentRating>3</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>193</districtId>
+<district>Old Redford Academy</district>
+<districtNCESId>2600242</districtNCESId>
+<address>8001 Outer Drive, Detroit, MI 48235</address>
+<phone>(313) 543-3080</phone>
+<fax/>
+<website>http://www.oldredford.com</website>
+<ncesId>260024201699</ncesId>
+<lat>42.418533</lat>
+<lon>-83.21637</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6115-Old-Redford-Academy---High/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx6115xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx6115xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6115
+</schoolStatsLink>
+</school>
+<school>
+<gsId>6116</gsId>
+<name>Old Redford Academy - Middle</name>
+<type>charter</type>
+<gradeRange>6-8</gradeRange>
+<enrollment>408</enrollment>
+<gsRating>4</gsRating>
+<parentRating>2</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>193</districtId>
+<district>Old Redford Academy</district>
+<districtNCESId>2600242</districtNCESId>
+<address>17226 Redford Street, Detroit, MI 48219</address>
+<phone>(313) 653-3888</phone>
+<fax/>
+<website>http://www.oldredford.com</website>
+<ncesId>260024201698</ncesId>
+<lat>42.41546</lat>
+<lon>-83.25951</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/6116-Old-Redford-Academy---Middle/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx6116xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx6116xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/6116
+</schoolStatsLink>
+</school>
+<school>
+<gsId>4930</gsId>
+<name>Open Door Montessori Academy</name>
+<type>private</type>
+<gradeRange>PK-4</gradeRange>
+<parentRating>5</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<address>16825 Wyoming St, Detroit, MI 48221</address>
+<phone>(313) 345-0003</phone>
+<fax/>
+<website/>
+<ncesId>BB962716</ncesId>
+<lat>42.414967</lat>
+<lon>-83.16056</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/4930-Open-Door-Montessori-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx4930xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx4930xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/cgi-bin/MI/otherprivate/4930
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9020</gsId>
+<name>Osborn Academy Of Mathematics</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>337</enrollment>
+<gsRating>2</gsRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>11600 7 Mile Road, Detroit, MI 48205</address>
+<phone>(313) 866-0343</phone>
+<fax>(313) 866-0356</fax>
+<website>http://detroitk12.org/schools/school/566/</website>
+<ncesId>261200008084</ncesId>
+<lat>42.434425</lat>
+<lon>-83.00467</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9020-Osborn-Academy-Of-Mathematics/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9020xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9020xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9020
+</schoolStatsLink>
+</school>
+<school>
+<gsId>9021</gsId>
+<name>Osborn College Preparatory Academy</name>
+<type>public</type>
+<gradeRange>9-12</gradeRange>
+<enrollment>265</enrollment>
+<gsRating>2</gsRating>
+<parentRating>1</parentRating>
+<city>Detroit</city>
+<state>MI</state>
+<districtId>346</districtId>
+<district>Detroit Public Schools</district>
+<districtNCESId>2612000</districtNCESId>
+<address>11600 7 Mile Road, Detroit, MI 48205</address>
+<phone>(313) 866-0343</phone>
+<fax>(313) 866-0356</fax>
+<website>http://detroitk12.org/schools/school/565/</website>
+<ncesId>261200008073</ncesId>
+<lat>42.434425</lat>
+<lon>-83.00467</lon>
+<overviewLink>
+http://www.greatschools.org/michigan/detroit/9021-Osborn-College-Preparatory-Academy/?s_cxxxgsapi
+</overviewLink>
+<ratingsLink>
+http://www.greatschools.org/school/rating.page?state=MIxxxx9021xs_cxxxgsapi
+</ratingsLink>
+<reviewsLink>
+http://www.greatschools.org/school/parentReviews.page?state=MIxxxx9021xs_cxxxgsapi
+</reviewsLink>
+<schoolStatsLink>
+http://www.greatschools.org/modperl/achievement/MI/9021
+</schoolStatsLink>
+</school>
+</schools>
