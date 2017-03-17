@@ -53,8 +53,7 @@ var vlSpeca1 = {
       }
     },
     "y": {
-      "aggregate": "count",
-      "field": "*",
+      "field": "fine_amount",
       "type": "quantitative",
       "axis": {
         "tickLabelFont": "Inconsolata",
