@@ -31,7 +31,7 @@ brim = 1
 results = []
 geojson["type"] = "FeatureCollection"
 
-train = open('yungtrain.csv')
+train = open('chil.csv')
 train_csv = csv.reader(train)
 
 add = open('data/addresses.csv')
@@ -73,23 +73,22 @@ with open('Recreation_Centers.geojson') as rec_file:
 
 editCounter = 1
 
-with open('data/blight_train_out.csv', 'w') as csvoutput:
+with open('data/blight_train_out1.csv', 'w') as csvoutput:
     writer = csv.writer(csvoutput, lineterminator='\n')
 
     master = []
     row0 = train_csv.next()
-    print(row0)
 
     row0.append('compliance_det')
     row0.append('4th_root_of_fine_amt')
     # Education
     row0.append('float_dist_to_pub_school_with_rating_of_4+')
-    row0.append('float_avg_dist_to_school_elem+mid+high')
+    row0.append('float_avg_dist_to_school_with_rating_of_4+')
     row0.append('bool_closest_school_lot_is_not_open')
     # Public Safety
-    row0.append('float_time_since_crime_occurred_within_.25_mi_before_ticket')
+    row0.append('int_crimes_within_.25_miles')
+    row0.append('int_businesses_within_.25_miles')
     row0.append('float_dist_to_police_station')
-    row0.append('float_num_of_fires_within_.25_mi')
     # Recreation
     row0.append('float_dist_to_library')
     row0.append('float_dist_to_rec_center')
@@ -109,6 +108,7 @@ with open('data/blight_train_out.csv', 'w') as csvoutput:
 
             elem_mid_high_distances = [999, 999, 999]
             dist_to_4_star_school = 9999
+            dist_to_4_star_pub_school = 1000
             school_close_dist = 99999
             bool_closest_school_lot_is_not_open = "Open"
             crime_count = 0
@@ -163,7 +163,7 @@ with open('data/blight_train_out.csv', 'w') as csvoutput:
                         bool_closest_school_lot_is_not_open = "Open"
 
             # INT: NUM OF MAJOR CRIMES WITHIN .25 MI OF ADDRESS
-            '''
+
             for crime in major_crimes["data"]:
                 crime_lat = crime[-1][-4]
                 crime_lon = crime[-1][-3]
@@ -209,7 +209,7 @@ with open('data/blight_train_out.csv', 'w') as csvoutput:
                 lib_dist = vincenty((lat, lon), (lib_lat, lib_lon)).miles
                 if (lib_dist < lowest_lib_dist):
                     lowest_lib_dist = lib_dist
-            '''
+
             # FLOAT: DIST TO REC CENTER (IN MILES)
 
             for rc in rec_centers["features"]:
@@ -221,11 +221,13 @@ with open('data/blight_train_out.csv', 'w') as csvoutput:
 
             row.append(float(row[19])**(1./4.))
             row.append(dist_to_4_star_school)
-            row.append(lowest_rc_dist)
+            row.append(dist_to_4_star_pub_school)
+            row.append(bool_closest_school_lot_is_not_open)
+            row.append(bus_stop_count)
+            row.append(bus_count)
             row.append(lowest_lib_dist)
             row.append(lowest_dpd_dist)
-            row.append(bool_closest_school_lot_is_not_open)
-            row.append(394)
+            row.append(lowest_rc_dist)
             row.append(374)
             master.append(row)
             editCounter += 1
@@ -236,7 +238,7 @@ with open('data/blight_train_out.csv', 'w') as csvoutput:
 
 
 # Add notable characteristics to the csv
-train = open('data/blight_train_out.csv')
+train = open('data/blight_train_out1.csv')
 train_csv = csv.reader(train)
 
 for row in train_csv:
@@ -284,6 +286,6 @@ for row in train_csv:
 
 geojson["features"] = results
 
-with open('blight.geojson', 'w') as outfile:
+with open('blight1.geojson', 'w') as outfile:
     print('dumping geojson...')
     json.dump(geojson, outfile)

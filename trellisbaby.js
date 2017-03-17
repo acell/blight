@@ -5,7 +5,7 @@ var vlSpec = {
     "x": {
       "bin": {"maxbins": 25},
       "type": "quantitative",
-      "field": "4th_root_of_fine_amt",
+      "field": "4th Root of Fine Amount",
       "axis": {
         "tickLabelFont": "Inconsolata",
         "titleFont": "Inconsolata"
@@ -22,7 +22,7 @@ var vlSpec = {
     },
     "column": {
       "type": "ordinal",
-      "field": "compliance_det",
+      "field": "Compliance Category",
       "axis": {
         "tickLabelFont": "Inconsolata",
         "titleFont": "Inconsolata"

@@ -3,9 +3,8 @@ var vlSpeca = {
   "mark": "bar",
   "encoding": {
     "x": {
-      "bin": {"maxbins": 25},
       "type": "ordinal",
-      "field": "float_dist_to_police_station",
+      "field": "Closest School Status",
       "axis": {
         "tickLabelFont": "Inconsolata",
         "titleFont": "Inconsolata"
@@ -22,7 +21,7 @@ var vlSpeca = {
     },
     "column": {
       "type": "ordinal",
-      "field": "compliance_det",
+      "field": "Compliance Category",
       "axis": {
         "tickLabelFont": "Inconsolata",
         "titleFont": "Inconsolata"
@@ -37,7 +36,8 @@ var embedSpec3 = {
   spec: vlSpeca
 };
 
-vg.embed("#vis", embedSpec3, function(error, result) {
+
+vg.embed("#vis4", embedSpec3, function(error, result) {
   // Callback receiving the View instance and parsed Vega spec
   // result.view is the View, which resides under the '#vis' element
 });
