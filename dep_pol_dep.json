@@ -1,0 +1,243 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "ddam-b64t",
+      "name" : "DPD Stations",
+      "averageRating" : 0,
+      "createdAt" : 1467902772,
+      "displayType" : "geoRows",
+      "downloadCount" : 19,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1467904367,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 22222668,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationGroup" : 11775747,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1467902776,
+      "rowsUpdatedBy" : "es3i-kday",
+      "tableId" : 11775747,
+      "totalTimesRated" : 0,
+      "viewCount" : 0,
+      "viewLastModified" : 1472017361,
+      "viewType" : "tabular",
+      "childViews" : [ "" ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 262025917,
+        "name" : "the_geom",
+        "dataTypeName" : "point",
+        "fieldName" : "the_geom",
+        "position" : 1,
+        "renderTypeName" : "point",
+        "tableColumnId" : 37084046,
+        "format" : { }
+      }, {
+        "id" : 262025918,
+        "name" : "Precinct",
+        "dataTypeName" : "text",
+        "fieldName" : "precinct",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37084047,
+        "format" : { }
+      }, {
+        "id" : 262025919,
+        "name" : "Address",
+        "dataTypeName" : "text",
+        "fieldName" : "address",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37084048,
+        "format" : { }
+      }, {
+        "id" : 262025920,
+        "name" : "City",
+        "dataTypeName" : "text",
+        "fieldName" : "city",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37084049,
+        "format" : { }
+      }, {
+        "id" : 262025921,
+        "name" : "State",
+        "dataTypeName" : "text",
+        "fieldName" : "state",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37084050,
+        "format" : { }
+      }, {
+        "id" : 262025922,
+        "name" : "Zip",
+        "dataTypeName" : "text",
+        "fieldName" : "zip",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37084051,
+        "format" : { }
+      }, {
+        "id" : 262025923,
+        "name" : "Leadership",
+        "dataTypeName" : "text",
+        "fieldName" : "leadership",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37084052,
+        "format" : { }
+      }, {
+        "id" : 262025924,
+        "name" : "Phone",
+        "dataTypeName" : "text",
+        "fieldName" : "phone",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37084053,
+        "format" : { }
+      }, {
+        "id" : 262025925,
+        "name" : "Latitude",
+        "dataTypeName" : "number",
+        "fieldName" : "latitude",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37084054,
+        "format" : { }
+      }, {
+        "id" : 262025926,
+        "name" : "Longitude",
+        "dataTypeName" : "number",
+        "fieldName" : "longitude",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 37084055,
+        "format" : { }
+      }, {
+        "id" : 262025927,
+        "name" : "NPO",
+        "dataTypeName" : "text",
+        "fieldName" : "npo",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 37084056,
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "geo" : {
+          "isNbe" : true,
+          "parentUid" : "kkvb-6h7t"
+        }
+      },
+      "owner" : {
+        "id" : "es3i-kday",
+        "displayName" : "Diana Flora",
+        "roleName" : "editor",
+        "screenName" : "Diana Flora",
+        "rights" : [ "create_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards", "view_story", "view_unpublished_story" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "es3i-kday",
+        "displayName" : "Diana Flora",
+        "roleName" : "editor",
+        "screenName" : "Diana Flora",
+        "rights" : [ "create_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards", "view_story", "view_unpublished_story" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ "row-28jm_xb3j~tuxj", "00000000-0000-0000-3385-2EF56178E54C", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.03652787242663 42.329384101120404)", "Downtown Services", "20 Atwater Street", "Detroit", "MI", "48226", "Captain Conway Petty", "(313) 237-2850", "42.329382", "-83.036531", "Officer Angela Hollis (313)590-0186 & Officer Steven Shank (313)643-0381" ]
+, [ "row-bj2h.68y7-kwrj", "00000000-0000-0000-6490-EE23A42A3769", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.18001577275903 42.38555613448372)", "2nd", "13530 Lesure Street", "Detroit", "MI", "48227", "Commander Mounsey", "(313) 596-5200", "42.385557", "-83.180014", "Officer Burks Collette Burks (313)600-5756 & Officer Yolanda Sharpe (313)573-0377" ]
+, [ "row-k9ws_4y4t.pxp7", "00000000-0000-0000-0020-021860A52B30", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.08132685564567 42.367777960026565)", "3rd", "2875 W. Grand Boulevard", "Detroit", "MI", "48202", "Commander Giaquinto", "(313) 596-5300", "42.367779", "-83.081331", "Officer Carrie Thomas (313)590-4327, Officer Gilbert Munoz (313)643-0897, Officer Dale Dorsey (313)643-0865, & Officer Tamyra Harris-Hardy (313)570-4364" ]
+, [ "row-4kdv~jujz~wuiy", "00000000-0000-0000-C833-028728C71AA9", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.09305885325628 42.311536886670844)", "4th", "4700 W. Fort Street", "Detroit", "MI", "48209", "Commander Walton", "(313) 596-5400", "42.311534", "-83.093056", "Officer Juan Lebron (313)643-0354, Officer Alfonzo Ruiz (313)618-1695, & Officer Thomas Denmark (313)643-0225" ]
+, [ "row-gqik~miqx-sczn", "00000000-0000-0000-10A4-F11DAE90814C", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-82.96601910577608 42.3817806012646)", "5th", "3500 Conner Avenue", "Detroit", "MI", "48215", "Commander Ewing", "(313) 596-5500", "42.381781", "-82.966016", "Officer Deborah Gaines (313)643-0202, Officer Audrey Curtis (313)643-0202, & Officer Herman King (313)643-0689" ]
+, [ "row-zt3y-zmtd~d8f3", "00000000-0000-0000-0D5B-AFCB306C2662", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.22687189797871 42.371819801162204)", "6th", "11450 Warwick Street", "Detroit", "MI", "48228", "Commander Tosqui", "(313) 596-5600", "42.371818", "-83.226871", "Officer Heather Ivey (313)643-0055, Officer Charles Staples (313)643-0481, & Officer Michael Gordon (313)643-0052" ]
+, [ "row-xiyw.67k9.535u", "00000000-0000-0000-4741-6448D889F189", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.05131414200324 42.42555354379842)", "11th", "5100 E. Nevada Avenue", "Detroit", "MI", "48234", "Commander Leach", "(313) 596-1100", "42.425554", "-83.051314", "Officer Kevin Chambers (313)600-3354, Officer Eric Hill (313)618-0888, & Officer Douglas Nichols (313) 618-0898" ]
+, [ "row-8sty.rf8k-pgk3", "00000000-0000-0000-212B-DCB6D9065BF9", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.25477357070348 42.41426001040211)", "8th", "21555 W. McNichols Road.  This station will not open until June 2017.  Until then, Precinct 8 will be housed within the 6th Precinct station", "Detroit", "MI", "48219", "Commander Pritchett", "(313) 596-5800", "42.414263", "-83.254774", "Officer Shawn Childrey (313)590-5199, Officer Baron Coleman (313)643-0773, Officer Tanda Rawls-Owens (313)643-0501, & Officer Corey Marshall (313)643-0752" ]
+, [ "row-q987-dac3.k9jf", "00000000-0000-0000-3398-269940AFA220", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-82.99510655467587 42.40946478307603)", "9th", "11187 Gratiot Avenue", "Detroit", "MI", "48213", "Commander Mahone", "(313) 596-5900", "42.409466", "-82.995104", "Officer Brad Hawkins (313)643-0590, Officer Aubrey Wade (313)618-0785, Officer Abraham Blue (313)590-0484, & Officer Jay Dantzler (313)590-6611" ]
+, [ "row-vnim~icx9_sf8b", "00000000-0000-0000-CA07-6E885308A474", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.13855852239692 42.37656481638395)", "10th", "12000 Livernois Avenue", "Detroit", "MI", "48206", "Commander Kyriacou", "(313) 596-1000", "42.376562", "-83.138562", "Officer Della Brown (313)614-9440 & Officer Roberto Berry (313)618-0793" ]
+, [ "row-z7jd.2t76-rtht", "00000000-0000-0000-15DC-C2BED6D5FF7A", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.11865185570083 42.43150785858086)", "12th", "1441 W. Seven Mile Road", "Detroit", "MI", "48203", "Commander Thomas", "(313) 596-1200", "42.431507", "-83.118654", "Officer Nathaniel Womack (313)618-1071, Officer Michael Crowder (313)573-7654, Officer Tania Anding (313)618-0767, & Officer Shannon Bullock (313)618-0787" ]
+, [ "row-y9ur~tayr~ywsz", "00000000-0000-0000-3D61-B870575208F6", 0, 1467902776, null, 1467902776, null, "{ }", "POINT (-83.03488094062637 42.35528724628933)", "7th", "3501 Chene Street", "Detroit", "MI", "48207", "Commander Williams", "(313) 596-5700", "42.355174", "-83.034964", "Officer Samuel Balogun (313)643-0608, Officer Shawn Duncan (313)643-0711, & Officer Joseph Corbett (313)643-0699" ]
+ ]
+}

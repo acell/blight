@@ -61,7 +61,6 @@ svg {
 h1 {
   font-family: 'Inconsolata', monospace;
   color: #4693e0;
-  background-color: #ccffed;
   font-size: 36px;
 }
 .why {
@@ -113,15 +112,23 @@ circle {
 <h1>as a Function of Urban Decay</h1><h2>  </h2>
 <!-- <div><img src="BILGHTTITLE.png" alt="title"></div> -->
 <button class="button">Education</button>
-<button class="button">Recreation</button>
+<button class="button" onclick="vg.embed('#vis2', embedSpec3, function(error, result) {
+  // Callback receiving the View instance and parsed Vega spec
+  // result.view is the View, which resides under the '#vis' element
+});">Recreation</button>
 <button class="button">Public Safety</button>
-<button class="button">Real Estate</button>
+<button class="button" onclick="vg.embed('#vis2', embedSpec2, function(error, result) {
+  // Callback receiving the View instance and parsed Vega spec
+  // result.view is the View, which resides under the '#vis' element
+});">Real Estate</button>
 <button class="button" onclick="updateMap()">Update Map</button>
 <div id='blight_map' style='width: 960px; height: 500px;'></div>
 <script type='text/javascript' src='blight_map.js'></script>
 <div id="vis"></div>
+<div id="vis2"></div>
 <div><span>
 <script type='text/javascript' src='trellisbaby.js'></script>
+<script type='text/javascript' src='childmap.js'></script>
 </span></div>
 </body>
 </html>
