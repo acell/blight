@@ -4,7 +4,7 @@ var vlSpeca = {
   "encoding": {
     "x": {
       "type": "ordinal",
-      "field": "Closest School Status",
+      "field": "Closest School",
       "axis": {
         "tickLabelFont": "Inconsolata",
         "titleFont": "Inconsolata"

@@ -111,32 +111,40 @@ circle {
 <h1>Visualizing Blight Tickets</h1><h2>  </h2>
 <h1>as a Function of Urban Decay</h1><h2>  </h2>
 <!-- <div><img src="BILGHTTITLE.png" alt="title"></div> -->
-<button class="button">Education</button>
-<button class="button" onclick="vg.embed('#vis2', embedSpec3, function(error, result) {
-  // Callback receiving the View instance and parsed Vega spec
-  // result.view is the View, which resides under the '#vis' element
-});">Recreation</button>
-<button class="button" onclick="vg.embed('#vis2', embedSpec4, function(error, result) {
-  // Callback receiving the View instance and parsed Vega spec
-  // result.view is the View, which resides under the '#vis' element
-});">Public Transportation</button>
-<button class="button">Public Safety</button>
-<button class="button" onclick="vg.embed('#vis2', embedSpec2, function(error, result) {
-  // Callback receiving the View instance and parsed Vega spec
-  // result.view is the View, which resides under the '#vis' element
-});">Real Estate</button>
-<button class="button" onclick="updateMap()">Update Map</button>
+
 <div id='blight_map' style='width: 90%; height: 500px;'></div>
 <script type='text/javascript' src='blight_map.js'></script>
+<button class="button" onclick="updateMap()">Update Map</button>
+<p><br></p>
+<span><br />
 <div id="vis"></div>
-<div id="vis2"></div>
-<div id="vis3"></div>
+<button class="button">Education</button>
+<p><br></p>
+<span><br />
 <div id="vis4"></div>
 <div id="vis7"></div>
+</span>
+<button class="button">Recreation</button>
+<p><br></p>
+<span><br />
 <div id="vis8"></div>
+<div id="vis2"></div>
+</span>
+<button class="button">Public Safety</button>
+<p><br></p>
+<div><span><br />
+<div id="vis3"></div>
 <div id="vis9"></div>
+</div></span>
+<button class="button">Real Estate</button>
+<p><br></p>
+<span><br />
 <div id="vis10"></div>
+<button class="button">Public Transportation</button>
+<p><br></p>
+<span><br />
 <div id="vis11"></div>
+</span>
 <div><span>
 <script type='text/javascript' src='trellisbaby.js'></script>
 <script type='text/javascript' src='rc.js'></script>
