@@ -31,7 +31,7 @@ brim = 1
 results = []
 geojson["type"] = "FeatureCollection"
 
-train = open('chil.csv')
+train = open('bab.csv')
 train_csv = csv.reader(train)
 
 add = open('data/addresses.csv')
@@ -73,7 +73,7 @@ with open('Recreation_Centers.geojson') as rec_file:
 
 editCounter = 1
 
-with open('data/blight_train_out1.csv', 'w') as csvoutput:
+with open('data/blight_train_out_frfr.csv', 'w') as csvoutput:
     writer = csv.writer(csvoutput, lineterminator='\n')
 
     master = []
@@ -92,12 +92,15 @@ with open('data/blight_train_out1.csv', 'w') as csvoutput:
     # Recreation
     row0.append('float_dist_to_library')
     row0.append('float_dist_to_rec_center')
+    row0.append('lat')
+    row0.append('lon')
 
     master.append(row0)
 
-    for row in train_csv:
-        # if (editCounter in indices):
-        try:
+    try:
+
+        for row in train_csv:
+            # if (editCounter in indices):
             lat = 0
             lon = 0
             address = row[4] + " " + row[5].lower()
@@ -120,21 +123,20 @@ with open('data/blight_train_out1.csv', 'w') as csvoutput:
             lowest_lib_dist = 565
 
             # FLOAT: DISTANCE TO SCHOOL WITH A GREAT SCHOOLS RATING OF AT LEAST 4
-            """
             for school in greatschools.findall("school"):
                 try:
                     if (school[5] >= 4):
+                        '''
                         print('lat lon then school lat lon')
                         print(lat)
                         print(lon)
                         print(float(school[16].text))
-                        print(float(school[17].text))
+                        print(float(school[17].text))'''
                         dist = vincenty((lat, lon), (float(school[16].text), float(school[17].text))).miles
                         if (dist < dist_to_4_star_school):
                             dist_to_4_star_school = dist
                 except:
-                    dist_to_4_star_school = 99902
-            """
+                    dist = 99829
 
             if (row[32] == "compliant by early payment" or
                 row[32] == "compliant by on-time payment" or
@@ -186,11 +188,14 @@ with open('data/blight_train_out1.csv', 'w') as csvoutput:
             # INT: NUM OF BUSINESSES WITHIN .25 MI OF ADDRESS
 
             for bus in businesses["data"]:
-                bus_lat = bus[-1][-4]
-                bus_lon = bus[-1][-4]
-                bus_dist = vincenty((lat, lon), (bus_lat, bus_lon)).miles
-                if (bus_dist <= .25):
-                    bus_count += 1
+                try:
+                    bus_lat = float(bus[-1][-4])
+                    bus_lon = float(bus[-1][-3])
+                    bus_dist = vincenty((lat, lon), (bus_lat, bus_lon)).miles
+                    if (bus_dist <= .25):
+                        bus_count += 1
+                except:
+                    bus_count += 0
 
             # FLOAT: DIST TO POLICE STATION (IN MILES)
 
@@ -209,7 +214,6 @@ with open('data/blight_train_out1.csv', 'w') as csvoutput:
                 lib_dist = vincenty((lat, lon), (lib_lat, lib_lon)).miles
                 if (lib_dist < lowest_lib_dist):
                     lowest_lib_dist = lib_dist
-
             # FLOAT: DIST TO REC CENTER (IN MILES)
 
             for rc in rec_centers["features"]:
@@ -218,27 +222,31 @@ with open('data/blight_train_out1.csv', 'w') as csvoutput:
                 rc_dist = vincenty((lat, lon), (rc_lat, rc_lon)).miles
                 if (rc_dist < lowest_rc_dist):
                     lowest_rc_dist = rc_dist
-
             row.append(float(row[19])**(1./4.))
             row.append(dist_to_4_star_school)
             row.append(dist_to_4_star_pub_school)
             row.append(bool_closest_school_lot_is_not_open)
+            row.append(crime_count)
             row.append(bus_stop_count)
             row.append(bus_count)
             row.append(lowest_lib_dist)
             row.append(lowest_dpd_dist)
             row.append(lowest_rc_dist)
-            row.append(374)
+            row.append(lat)
+            row.append(lon)
             master.append(row)
+            print(editCounter)
+            if editCounter == 40:
+                print(row)
             editCounter += 1
-        except:
-            editCounter += 1
+    except:
+        editCounter += 1
 
     writer.writerows(master)
 
 
 # Add notable characteristics to the csv
-train = open('data/blight_train_out1.csv')
+train = open('data/blight_train_out_frfr.csv')
 train_csv = csv.reader(train)
 
 for row in train_csv:
@@ -253,8 +261,8 @@ for row in train_csv:
         addressInfo["type"] = "Point"
 
         latlon = []
-        lon = float(rowz[counterStart][2])
-        lat = float(rowz[counterStart][1])
+        lon = float(row[46])
+        lat = float(row[45])
         latlon.append(lon)
         latlon.append(lat)
         addressInfo["coordinates"] = latlon
@@ -286,6 +294,6 @@ for row in train_csv:
 
 geojson["features"] = results
 
-with open('blight1.geojson', 'w') as outfile:
+with open('blight_frfr.geojson', 'w') as outfile:
     print('dumping geojson...')
     json.dump(geojson, outfile)

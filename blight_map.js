@@ -1,7 +1,7 @@
 var smtr_data;
 var legend;
 
-$.getJSON("blight.geojson", function(data) {
+$.getJSON("blight_frfr.geojson", function(data) {
     smtr_data = data;
 
     function getColor(d) {
@@ -20,7 +20,7 @@ $.getJSON("blight.geojson", function(data) {
 
     function style(feature) {
         return {
-            radius: Math.sqrt(feature.properties.fine_amount/20),
+            radius: Math.sqrt(feature.properties.fine_amount/10),
             fillColor: getColor(feature.properties.compliance_detail),
             color: getColor(feature.properties.compliance_detail),
             weight: 1,
@@ -117,21 +117,31 @@ $.getJSON("blight.geojson", function(data) {
 legend.addTo(blight_map);
 });
 
-
-
+/*
+function postData(input) {
+    $.ajax({
+        type: "POST",
+        url: "/csv_x.py",
+        data: { param: input},
+        success: callbackFunc
+    });
+}*/
 
 function updateMap() {
 
     blight_map.removeControl(legend);
 
-    blight_map.fitBounds([blight_map.getBounds().getSouthWest(), blight_map.getBounds().getNorthEast()])
+    blight_map.fitBounds([blight_map.getBounds().getSouthWest(), blight_map.getBounds().getNorthEast()]);
 
-    $.getJSON("blight.geojson", function(data) {
+    //postData([blight_map.getBounds().getNorth(), blight_map.getBounds().getSouth(),
+    //          blight_map.getBounds().getEast(), blight_map.getBounds().getWest()]);
+
+    $.getJSON("blight_frfr.geojson", function(data) {
         smtr_data = data;
 
         function style(feature) {
             return {
-                radius: Math.sqrt(feature.properties.fine_amount/20),
+                radius: Math.sqrt(feature.properties.fine_amount/10),
                 fillColor: getColor(feature.properties.compliance_detail),
                 color: getColor(feature.properties.compliance_detail),
                 weight: 1,

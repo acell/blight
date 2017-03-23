@@ -1,5 +1,5 @@
 var vlSpec = {
-  "data": {"url": "data/blight_train_out.csv"},
+  "data": {"url": "data/blight_train_out_frfr.csv"},
   "mark": "bar",
   "encoding": {
     "x": {
@@ -29,12 +29,16 @@ var vlSpec = {
       }
     },
     "color": {"value": "#4693e0"}
+  },
+  "config": {
+    "mark": {"filled": true}
   }
 };
 
 var embedSpec = {
   mode: "vega-lite",
-  spec: vlSpec
+  spec: vlSpec,
+  actions: false
 };
 
 vg.embed("#vis", embedSpec, function(error, result) {

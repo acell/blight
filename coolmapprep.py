@@ -93,6 +93,8 @@ with open('data/blight_train_out.csv', 'w') as csvoutput:
     # Recreation
     row0.append('float_dist_to_library')
     row0.append('float_dist_to_rec_center')
+    row0.append('lat')
+    row0.append('lon')
 
     master.append(row0)
 
@@ -219,6 +221,8 @@ with open('data/blight_train_out.csv', 'w') as csvoutput:
             row.append(lowest_dpd_dist)
             row.append(lowest_lib_dist)
             row.append(lowest_rc_dist)
+            row.append(lat)
+            row.append(lon)
             master.append(row)
             editCounter += 1
         except:
@@ -245,8 +249,8 @@ for row in train_csv:
         addressInfo["type"] = "Point"
 
         latlon = []
-        lon = float(rowz[counterStart][2])
-        lat = float(rowz[counterStart][1])
+        lon = row[46]
+        lat = row[45]
         latlon.append(lon)
         latlon.append(lat)
         addressInfo["coordinates"] = latlon

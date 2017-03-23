@@ -110,7 +110,7 @@ circle {
 <body>
 <h1>Visualizing Blight Tickets</h1><h2>  </h2>
 <h1>as a Function of Urban Decay</h1><h2>  </h2>
-<!-- <div><img src="BILGHTTITLE.png" alt="title"></div>
+<!-- <div><img src="BILGHTTITLE.png" alt="title"></div> -->
 <button class="button">Education</button>
 <button class="button" onclick="vg.embed('#vis2', embedSpec3, function(error, result) {
   // Callback receiving the View instance and parsed Vega spec
@@ -124,7 +124,7 @@ circle {
 <button class="button" onclick="vg.embed('#vis2', embedSpec2, function(error, result) {
   // Callback receiving the View instance and parsed Vega spec
   // result.view is the View, which resides under the '#vis' element
-});">Real Estate</button> -->
+});">Real Estate</button>
 <button class="button" onclick="updateMap()">Update Map</button>
 <div id='blight_map' style='width: 90%; height: 500px;'></div>
 <script type='text/javascript' src='blight_map.js'></script>
@@ -132,11 +132,27 @@ circle {
 <div id="vis2"></div>
 <div id="vis3"></div>
 <div id="vis4"></div>
+<div id="vis7"></div>
+<div id="vis8"></div>
+<div id="vis9"></div>
+<div id="vis10"></div>
+<div id="vis11"></div>
 <div><span>
 <script type='text/javascript' src='trellisbaby.js'></script>
 <script type='text/javascript' src='rc.js'></script>
 <script type='text/javascript' src='edu.js'></script>
 <script type='text/javascript' src='pub_tp.js'></script>
+<script type='text/javascript' src='coolnewgraphs.js'></script>
+<script>
+function postData(input) {
+    $.ajax({
+        type: "POST",
+        url: "/csv_x.py",
+        data: { param: input},
+        success: callbackFunc
+    });
+}
+</script>
 </span></div>
 </body>
 </html>

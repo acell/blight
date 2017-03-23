@@ -41,11 +41,12 @@ vg.embed("#vis3", embedSpec4, function(error, result) {
 }); */
 
 var vlSpeca1 = {
-  "data": {"url": "data/blight_train_out.csv"},
-  "mark": "point",
+  "data": {"url": "data/blight_train_out_frfr.csv"},
+  "mark": "bar",
   "encoding": {
     "x": {
       "type": "quantitative",
+      "bin": {"maxbins": 25},
       "field": "Bus Stops Within Quarter Mile",
       "axis": {
         "tickLabelFont": "Inconsolata",
@@ -53,7 +54,8 @@ var vlSpeca1 = {
       }
     },
     "y": {
-      "field": "fine_amount",
+      "aggregate": "count",
+      "field": "*",
       "type": "quantitative",
       "axis": {
         "tickLabelFont": "Inconsolata",
@@ -69,12 +71,16 @@ var vlSpeca1 = {
       }
     },
     "color": {"value": "#4693e0"}
+  },
+  "config": {
+    "mark": {"filled": true}
   }
 };
 
 var embedSpec5 = {
   mode: "vega-lite",
-  spec: vlSpeca1
+  spec: vlSpeca1,
+  actions: false
 };
 
 

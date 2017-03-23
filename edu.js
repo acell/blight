@@ -1,5 +1,5 @@
 var vlSpeca = {
-  "data": {"url": "data/blight_train_out.csv"},
+  "data": {"url": "data/blight_train_out_frfr.csv"},
   "mark": "bar",
   "encoding": {
     "x": {
@@ -28,12 +28,16 @@ var vlSpeca = {
       }
     },
     "color": {"value": "#4693e0"}
+  },
+  "config": {
+    "mark": {"filled": true}
   }
 };
 
 var embedSpec3 = {
   mode: "vega-lite",
-  spec: vlSpeca
+  spec: vlSpeca,
+  actions: false
 };
 
 
