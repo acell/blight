@@ -63,6 +63,13 @@ h1 {
   color: #4693e0;
   font-size: 36px;
 }
+
+p {
+  font-family: 'Inconsolata', monospace;
+  color: #444;
+  font-size: 16px;
+}
+
 .why {
   color: #fff;
   font-size: 6px;
@@ -110,39 +117,83 @@ circle {
 <body>
 <h1>Visualizing Blight Tickets</h1><h2>  </h2>
 <h1>as a Function of Urban Decay</h1><h2>  </h2>
-<!-- <div><img src="BILGHTTITLE.png" alt="title"></div> -->
 
-<div id='blight_map' style='width: 90%; height: 500px;'></div>
+<button class="button">Background</button>
+<p><br></p>
+<span><br />
+<p>
+  Blight, one symptom of urban decay referring to properties being severely poorly maintained, has ravaged Detroit. Detail about each ticket's blight infraction can be found by clicking on the point. Demolitions are necessary but very expensive, and thus the City of Detroit started issuing blight tickets, giving residents the opportunity to either fix their properties or pay a fine that helps fund the city’s demolitions. Unfortunately, over 90% of the tickets where a citizen was deemed responsible for the ticketed offense are never paid. This year, the Michigan Statistical Symposium for Interdisciplinary Statistical Sciences partnered with Michigan Data Science Team and the City of Detroit to explore the crisis of blight ticket compliance in Detroit. With the goal of exploring how other factors of urban decay affect blight ticket compliance, I built an interactive map and set of charts exploring the compliance status of a ticket against other factors of urban decay.
+
+  The map uses data exclusively about the blight tickets, but several other datasets from the Detroit Open Data Portal were incorporated to generate the graphs examining other below.
+</p>
+</span>
+<!-- <div><img src="BILGHTTITLE.png" alt="title"></div> -->
+<button class="button">Map of Tickets</button>
+<p><br></p>
+<span><br />
+<p>
+  This map shows ~1,600 of the most recent blight tickets available from the Detroit Open Data Portal, along with the count of tickets in the selected geographic area per compliance category and the mean fine amount for that compliance category. Selecting the 'Update Map' button below the map will recalculate these values, allowing viewers like you to examine how these counts and mean fine amounts vary by neighborhood.
+</p>
+<div id='blight_map' style='width: 95%; height: 600px;'></div>
 <script type='text/javascript' src='blight_map.js'></script>
+</span>
 <button class="button" onclick="updateMap()">Update Map</button>
 <p><br></p>
 <span><br />
+<p>
+  Histograms of the power-transformed blight ticket fine separated into four categories of ticket compliance: compliant (the fine was paid early or on time), late payment (the fine was paid late), non-compliant (the resident was deemed responsible of paying the ticket, but did not pay), and not responsible (the resident was deemed not responsible of paying the ticket in court)
+</p>
 <div id="vis"></div>
 <button class="button">Education</button>
 <p><br></p>
 <span><br />
+<p>
+  Whether the closest public school to a residence is open or closed, separated into the 4 compliance categories
+</p>
 <div id="vis4"></div>
+<p>
+  Histograms of the distance in miles of properties to a GreatSchools rating of at least 4, for each of the four compliance categories
+</p>
 <div id="vis7"></div>
 </span>
 <button class="button">Recreation</button>
 <p><br></p>
 <span><br />
+<p>
+  Histograms of the distance in miles of properties to a public library, for each of the four compliance categories
+</p>
 <div id="vis8"></div>
+<p>
+  Histograms of the distance in miles of properties to a recreation center, for each of the four compliance categories
+</p>
 <div id="vis2"></div>
 </span>
 <button class="button">Public Safety</button>
 <p><br></p>
 <div><span><br />
+<p>
+  Histograms of the number of major crimes committed within .25 miles of a property from 2011 to 2014, for each of the four compliance categories
+</p>
 <div id="vis3"></div>
+<p>
+  Histograms of the distance in miles of properties to a police station, for each of the four compliance categories
+</p>
 <div id="vis9"></div>
 </div></span>
 <button class="button">Real Estate</button>
 <p><br></p>
 <span><br />
+<p>
+  Histograms of the square root of the number of business licenses granted within .25 miles of a property, for each of the four compliance categories
+</p>
+
 <div id="vis10"></div>
 <button class="button">Public Transportation</button>
 <p><br></p>
 <span><br />
+<p>
+  Histograms of the number of bus stops within .25 miles of a property, for each of the four compliance categories
+</p>
 <div id="vis11"></div>
 </span>
 <div><span>

@@ -106,7 +106,7 @@ $.getJSON("blight_frfr.geojson", function(data) {
                         ('<i style="background: '
                         + getColor(smtr_data["features"][search]["properties"]["compliance_detail"])
                         + '"></i> ' + smtr_data["features"][search]["properties"]["compliance_detail"]
-                        + ' ct:' + counts[reason] + ' mean: ' + Math.round(dolla_counts[reason] / counts[reason]) + '<br>');
+                        + ' count:' + counts[reason] + ' mean fine amount: $' + Math.round(dolla_counts[reason] / counts[reason]) + '<br>');
                     reasons_for_failure.push(smtr_data["features"][search]["properties"]["compliance_detail"]);
             }
         }
@@ -240,7 +240,7 @@ function updateMap() {
                         ('<i style="background: '
                         + getColor(smtr_data["features"][search]["properties"]["compliance_detail"])
                         + '"></i> ' + smtr_data["features"][search]["properties"]["compliance_detail"]
-                        + ' ct:' + counts[reason] + ' mean: ' + Math.round(dolla_counts[reason] / counts[reason]) + '<br>');
+                        + ' count:' + counts[reason] + ' mean fine : $' + Math.round(dolla_counts[reason] / counts[reason]) + '<br>');
                     reasons_for_failure.push(smtr_data["features"][search]["properties"]["compliance_detail"]);
                 }
             }
